@@ -1,0 +1,455 @@
+# Саша Пантюхин <NGAGE13@yandex.ru>, 2010.
+# boobaloo <koptev.oleg@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-22 17:49+0200\n"
+"PO-Revision-Date: 2012-01-22 15:21+0000\n"
+"Last-Translator: Oleg Koptev <koptev.oleg@gmail.com>\n"
+"Language-Team: Oleg Koptev\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-07-22 16:44+0000\n"
+"X-Generator: Launchpad (build 15654)\n"
+"Language: ru\n"
+
+msgid "_Clear clipboard"
+msgstr "_Очистить"
+
+msgid "_Edit current content"
+msgstr "_Редактировать буфер обмена"
+
+msgid "_Preferences"
+msgstr "_Настройки"
+
+msgid "_About"
+msgstr "_О программе"
+
+msgid "_Quit"
+msgstr "_Выход"
+
+msgid "Glippy Preferences"
+msgstr "Настройки Glippy"
+
+msgid "Start Glippy at login"
+msgstr "Запускать Glippy при загрузке"
+
+msgid "Enable keyboard clipboard (Ctrl+C/Ctrl+V)"
+msgstr "Использовать буфер клавиатуры (Ctrl+C, Ctrl+V)"
+
+msgid "Store images"
+msgstr "Сохранять изображения"
+
+msgid "Store supported files as images"
+msgstr "Сохранять поддерживаемые файлы как изображения"
+
+msgid "Enable mouse clipboard (selection/middle click)"
+msgstr "Включить буфер мыши (выделение/клик средней кнопкой)"
+
+msgid "Synchronize clipboards"
+msgstr "Синхронизация буферов обмена"
+
+msgid "Save history on exit"
+msgstr "Сохранять историю при выходе"
+
+msgid "Paste item content on selection"
+msgstr ""
+
+msgid "_Basic"
+msgstr "_Основные"
+
+msgid "Clipboard size:"
+msgstr "Размер буфера обмена:"
+
+msgid "Label length:"
+msgstr "Длина ярлыка:"
+
+msgid "Reverse order of items"
+msgstr "Обратный порядок элементов"
+
+msgid "Use paste icon instead default (needs restart)"
+msgstr ""
+"Использовать иконку вставки вместо значка по-умолчанию (требуется перезапуск)"
+
+msgid "Show 'About' menu entry"
+msgstr "Показывать пункт меню «О программе»"
+
+msgid "Show 'Edit clipboard' menu entry"
+msgstr "Показывать пункт меню «Редактировать буфер обмена»"
+
+msgid "Show 'Quit' menu entry"
+msgstr "Показывать пункт меню «Выход»"
+
+msgid "_Interface"
+msgstr "_Интерфейс"
+
+msgid "Menu hotkey"
+msgstr "Горячая клавиша меню"
+
+msgid "Grab"
+msgstr "Захватить"
+
+msgid "'Copy' hotkey for mouse clipboard"
+msgstr "Горячая клавиша для копирования буфера обмена мыши"
+
+msgid "H_otkeys"
+msgstr "_Горячие клавиши"
+
+msgid "Here you can configure which plugins Glippy should use."
+msgstr "Здесь вы можете настроить какие модули может использовать Glippy."
+
+msgid "Keep in mind, that some of them may require restart."
+msgstr "Имейте в виду, что некоторые из них могут потребовать перезапуска."
+
+msgid "_Plugins"
+msgstr "_Модули"
+
+msgid "_Close"
+msgstr "_Закрыть"
+
+msgid "Edit clipboard content"
+msgstr "Редактирование содержимого буфера обмена"
+
+msgid "C_ontent"
+msgstr "_Содержимое"
+
+msgid "_Apply"
+msgstr "_Применить"
+
+msgid "_Cancel"
+msgstr "_Закрыть"
+
+msgid "Not so simple clipboard manager for GNOME"
+msgstr "Не самый простой менеджер буфера обмена для GNOME"
+
+msgid "Enabled"
+msgstr "Включен"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Tray icon"
+msgstr "Значок в панели задач"
+
+msgid "Notification area icon."
+msgstr "Значок области уведомления."
+
+msgid "_Upload"
+msgstr "_Загрузка"
+
+msgid "Upload"
+msgstr "Загрузить"
+
+msgid "Upload text to Pastebin and images to Imgur."
+msgstr "Загрузить текст в Pastebin и изображения на Imgur."
+
+msgid "Error: "
+msgstr ""
+
+msgid "Image size is too large."
+msgstr "Изображение слишком большое."
+
+msgid "State"
+msgstr "Статус"
+
+msgid "Original image"
+msgstr "Исходный размер"
+
+msgid "Large thumbnail"
+msgstr "Большая миниатюра"
+
+msgid "Small thumbnail"
+msgstr "Маленькая миниатюра"
+
+msgid "Imgur page"
+msgstr "Сайт Imgur.com"
+
+msgid "Delete page"
+msgstr "Удалить страницу"
+
+msgid "Error code"
+msgstr "Код ошибки"
+
+msgid "Error message"
+msgstr "Сообщение об ошибке"
+
+msgid "Upload clipboard content"
+msgstr "Загрузить содержимое буфера обмена"
+
+msgid "<b>Type:</b>"
+msgstr "<b>Тип:</b>"
+
+msgid "_Text"
+msgstr "_Текст"
+
+msgid "_Image"
+msgstr "_Изображение"
+
+msgid "_Name:"
+msgstr "_Название:"
+
+msgid "E_xpiration date:"
+msgstr "Д_ата истечения срока:"
+
+msgid "Never"
+msgstr "Никогда"
+
+msgid "1 month"
+msgstr "1 месяц"
+
+msgid "1 day"
+msgstr "1 день"
+
+msgid "1 hour"
+msgstr "1 час"
+
+msgid "10 minutes"
+msgstr "10 минут"
+
+msgid "_Privacy:"
+msgstr ""
+
+msgid "Public"
+msgstr ""
+
+msgid "Unlisted"
+msgstr ""
+
+msgid "Use _account"
+msgstr ""
+
+msgid "Uploading..."
+msgstr "Загрузка..."
+
+msgid "Text field is empty."
+msgstr "Текстовое поле пустое."
+
+msgid "Upload finished"
+msgstr "Загрузка завершена"
+
+msgid "Image is empty."
+msgstr "Изображение отсутствует."
+
+msgid "Private"
+msgstr ""
+
+msgid "Username and password are required."
+msgstr ""
+
+msgid "Invalid username or password."
+msgstr ""
+
+msgid ""
+"Login successful. From now you can upload texts to your Pastebin account."
+msgstr ""
+
+msgid "_Username"
+msgstr ""
+
+msgid "_Password"
+msgstr ""
+
+msgid "_Login"
+msgstr ""
+
+msgid "Cl_ear"
+msgstr ""
+
+msgid "<b>Pastebin account</b>"
+msgstr ""
+
+msgid "Indicator"
+msgstr "Индикатор"
+
+msgid "Ubuntu indicator icon."
+msgstr "Значок индикатора Ubuntu."
+
+msgid "_Snippets"
+msgstr "_Шаблоны"
+
+msgid "Snippets"
+msgstr "Фрагменты текста"
+
+msgid "Store small parts of reusable texts."
+msgstr "Сохранение небольших, многократно используемых, фрагментов текста."
+
+msgid "_Make snippet from current content"
+msgstr "_Создать шаблон из текущего содержимого"
+
+msgid "Label"
+msgstr "Ярлык"
+
+msgid "Content"
+msgstr "Содержимое"
+
+msgid "Enable snippets"
+msgstr "Включить шаблоны"
+
+msgid "Paste content on snippet selection"
+msgstr "Вставить содержимое при выборе фрагмента текста"
+
+msgid "_Remove"
+msgstr "_Удалить"
+
+msgid "_Edit"
+msgstr "_Правка"
+
+msgid "_Add"
+msgstr "_Добавить"
+
+msgid "Edit snippet"
+msgstr "Изменить фрагмент"
+
+msgid "Label is required."
+msgstr "Наличие метки обязательно."
+
+msgid "Content is required."
+msgstr "Наличие содержимого обязательно."
+
+msgid "Add snippet"
+msgstr "Добавить фрагмент"
+
+msgid "Both label and content are required."
+msgstr "Наличие метки и содержимого обязательно."
+
+msgid "You can use underscore in label for menu shortcut."
+msgstr ""
+
+msgid "_Label"
+msgstr "_Ярлык"
+
+msgid "Enable actions"
+msgstr "Разрешить выполнение действий"
+
+msgid "Edit action"
+msgstr "Изменить действие"
+
+msgid "Add action"
+msgstr "Добавить действие"
+
+msgid ""
+"You can use underscore in label for menu shortcut and %s in content as text "
+"placeholder. Each line is executed separately."
+msgstr ""
+
+msgid "_Actions"
+msgstr "_Действия"
+
+msgid "Actions"
+msgstr "Действия"
+
+msgid "Execute actions on current clipboard content."
+msgstr "Выполнить действия для текущего содержимого буфера обмена."
+
+msgid "Sc_reen"
+msgstr "_Экран"
+
+msgid "Screenshot"
+msgstr "Снимок экрана"
+
+msgid "Create screenshots, pick colors from screen."
+msgstr "Создание снимков экрана, выбор цвета с экрана."
+
+msgid "_Take region screenshot"
+msgstr "_Захват области экрана"
+
+msgid "Take screenshot of _entire screen"
+msgstr "Сделать снимок _всего экрана"
+
+msgid "_Pick color"
+msgstr "_Выбрать цвет"
+
+msgid "Picked color"
+msgstr "Выбранный цвет"
+
+msgid "Red:"
+msgstr "Красный:"
+
+msgid "Green:"
+msgstr "Зелёный:"
+
+msgid "Blue:"
+msgstr "Синий:"
+
+msgid "Hue:"
+msgstr "Тон:"
+
+msgid "Saturation:"
+msgstr "Насыщенность:"
+
+msgid "Value:"
+msgstr "Значение:"
+
+msgid "Hex:"
+msgstr "Hex:"
+
+msgid "Image preview"
+msgstr "Предварительный просмотр изображения"
+
+msgid "Width:"
+msgstr "Ширина:"
+
+msgid "Height:"
+msgstr "Высота:"
+
+msgid "Date:"
+msgstr "Дата:"
+
+msgid "C_opy to clipboard"
+msgstr "К_опировать в буфер обмена"
+
+msgid "_Save to file"
+msgstr "_Сохранить в файл"
+
+msgid "Save image"
+msgstr "Сохранить изображение"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Invalid login or API key"
+msgstr ""
+
+msgid "Unspecified error."
+msgstr ""
+
+msgid "S_horten URL"
+msgstr ""
+
+msgid "Shortened URL:"
+msgstr ""
+
+msgid "URL shortener"
+msgstr ""
+
+msgid "Shorten URLs with bit.ly or TinyURL."
+msgstr ""
+
+msgid "_URL shortener:"
+msgstr ""
+
+msgid "TinyURL.com"
+msgstr ""
+
+msgid "Bit.ly"
+msgstr ""
+
+msgid ""
+"Bitly URL shortener requires your account details.\n"
+"You can find your API key <a "
+"href=\"https://bitly.com/a/your_api_key\">here</a>."
+msgstr ""
+
+msgid "_API key"
+msgstr ""
+
+msgid "<b>Bit.ly account</b>"
+msgstr ""

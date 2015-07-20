@@ -1,0 +1,410 @@
+<gconfschemafile>
+  <schemalist>
+    <schema>
+      <key>/schemas/apps/glippy/core/start_at_login</key>
+      <applyto>/apps/glippy/core/start_at_login</applyto>
+      <owner>glippy</owner>
+      <type>bool</type>
+      <default>false</default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Start at login</short>
+         <long>
+	 If set, Glippy starts at login.
+         </long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/glippy/core/keyboard_clipboard</key>
+      <applyto>/apps/glippy/core/keyboard_clipboard</applyto>
+      <owner>glippy</owner>
+      <type>bool</type>
+      <default>true</default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Enable keyboard clipboard</short>
+         <long>
+	 If set, Glippy monitors keyboard clipboard.
+         </long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/glippy/core/mouse_clipboard</key>
+      <applyto>/apps/glippy/core/mouse_clipboard</applyto>
+      <owner>glippy</owner>
+      <type>bool</type>
+      <default>false</default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Enable mouse clipboard</short>
+         <long>
+	 If set, Glippy monitors mouse (primary) clipboard.
+         </long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/glippy/core/synchronize_clipboards</key>
+      <applyto>/apps/glippy/core/synchronize_clipboards</applyto>
+      <owner>glippy</owner>
+      <type>bool</type>
+      <default>false</default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Synchronize clipboards</short>
+         <long>
+	 If set, Glippy synchronizes keyboard and mouse clipboards.
+         </long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/glippy/core/save_history_on_exit</key>
+      <applyto>/apps/glippy/core/save_history_on_exit</applyto>
+      <owner>glippy</owner>
+      <type>bool</type>
+      <default>true</default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Save history on exit</short>
+         <long>
+	 If set, Glippy saves history to file and loads it on start.
+         </long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/glippy/core/paste_on_selection</key>
+      <applyto>/apps/glippy/core/paste_on_selection</applyto>
+      <owner>glippy</owner>
+      <type>bool</type>
+      <default>true</default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Paste on selection</short>
+         <long>
+	 If set, Glippy emulates Ctrl+V to paste content of selected item.
+         </long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/glippy/core/images</key>
+      <applyto>/apps/glippy/core/images</applyto>
+      <owner>glippy</owner>
+      <type>bool</type>
+      <default>false</default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Store images.</short>
+         <long>
+	 If set, Glippy stores images.
+         </long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/glippy/core/supported_files_as_images</key>
+      <applyto>/apps/glippy/core/supported_files_as_images</applyto>
+      <owner>glippy</owner>
+      <type>bool</type>
+      <default>false</default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Store supported files as images.</short>
+         <long>
+	 If set, Glippy stores supported files as images.
+         </long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/glippy/ui/size</key>
+      <applyto>/apps/glippy/ui/size</applyto>
+      <owner>glippy</owner>
+      <type>int</type>
+      <default>15</default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Clipboard size</short>
+         <long>
+	 Number of elements which Glippy holds in history.
+         </long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/glippy/ui/label_length</key>
+      <applyto>/apps/glippy/ui/label_length</applyto>
+      <owner>glippy</owner>
+      <type>int</type>
+      <default>40</default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Label length</short>
+         <long>
+	 Number of characters in item label.
+         </long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/glippy/ui/reverse_order</key>
+      <applyto>/apps/glippy/ui/reverse_order</applyto>
+      <owner>glippy</owner>
+      <type>bool</type>
+      <default>false</default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Reverse order</short>
+         <long>
+	 If set, Glippy shows history in reverse order.
+         </long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/glippy/ui/paste_icon</key>
+      <applyto>/apps/glippy/ui/paste_icon</applyto>
+      <owner>glippy</owner>
+      <type>bool</type>
+      <default>false</default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Paste icon instead default</short>
+         <long>
+	 If set, Glippy should use paste icon in tray instead of default.
+         </long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/glippy/ui/show_about</key>
+      <applyto>/apps/glippy/ui/show_about</applyto>
+      <owner>glippy</owner>
+      <type>bool</type>
+      <default>true</default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Show 'About' in menu</short>
+         <long>
+	 If set, Glippy shows 'About' in menu.
+         </long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/glippy/ui/show_edit_clipboard</key>
+      <applyto>/apps/glippy/ui/show_edit_clipboard</applyto>
+      <owner>glippy</owner>
+      <type>bool</type>
+      <default>true</default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Show 'Edit clipboard content' in menu</short>
+         <long>
+	 If set, Glippy shows 'Edit clipboard content' in menu.
+         </long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/glippy/ui/show_quit</key>
+      <applyto>/apps/glippy/ui/show_quit</applyto>
+      <owner>glippy</owner>
+      <type>bool</type>
+      <default>true</default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Show 'Quit' in menu</short>
+         <long>
+	 If set, Glippy shows 'Quit' in menu.
+         </long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/glippy/hotkeys/menu</key>
+      <applyto>/apps/glippy/hotkeys/menu</applyto>
+      <owner>glippy</owner>
+      <type>bool</type>
+      <default>true</default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Enable menu hotkey</short>
+         <long>
+	 If set, Glippy supports menu hotkey.
+         </long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/glippy/hotkeys/menu_modifiers</key>
+      <applyto>/apps/glippy/hotkeys/menu_modifiers</applyto>
+      <owner>glippy</owner>
+      <type>int</type>
+      <default>13</default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Menu hotkey modifiers</short>
+         <long>
+	 Menu hotkey modifiers.
+         </long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/glippy/hotkeys/menu_key</key>
+      <applyto>/apps/glippy/hotkeys/menu_key</applyto>
+      <owner>glippy</owner>
+      <type>int</type>
+      <default>99</default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Menu hotkey key</short>
+         <long>
+	 Menu hotkey key.
+         </long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/glippy/hotkeys/copy_mouse</key>
+      <applyto>/apps/glippy/hotkeys/copy_mouse</applyto>
+      <owner>glippy</owner>
+      <type>bool</type>
+      <default>false</default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Enable copy mouse hotkey</short>
+         <long>
+	 If set, Glippy enables copy hotkey for mouse clipboard (same like keyboard).
+         </long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/glippy/hotkeys/copy_mouse_modifiers</key>
+      <applyto>/apps/glippy/hotkeys/copy_mouse_modifiers</applyto>
+      <owner>glippy</owner>
+      <type>int</type>
+      <default>13</default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Copy mouse hotkey modifiers</short>
+         <long>
+	 Copy mouse hotkey modifiers.
+         </long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/glippy/hotkeys/copy_mouse_key</key>
+      <applyto>/apps/glippy/hotkeys/copy_mouse_key</applyto>
+      <owner>glippy</owner>
+      <type>int</type>
+      <default>109</default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Copy mouse hotkey key</short>
+         <long>
+	 Copy mouse hotkey key.
+         </long>
+      </locale>
+    </schema>    
+    <schema>
+      <key>/schemas/apps/glippy/plugins/list</key>
+      <applyto>/apps/glippy/plugins/list</applyto>
+      <owner>glippy</owner>
+      <type>string</type>
+      <default>libglippytray|libglippysnippets|libglippyupload</default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>List of plugins</short>
+         <long>
+	 List of plugins which Glippy loads on start.
+         </long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/glippy/actions/enable</key>
+      <applyto>/apps/glippy/actions/enable</applyto>
+      <owner>glippy</owner>
+      <type>bool</type>
+      <default>true</default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Enable actions</short>
+         <long>
+	 If set, actions are enabled.
+         </long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/glippy/snippets/enable</key>
+      <applyto>/apps/glippy/snippets/enable</applyto>
+      <owner>glippy</owner>
+      <type>bool</type>
+      <default>true</default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Enable snippets</short>
+         <long>
+	 If set, snippets are enabled.
+         </long>
+      </locale>
+    </schema>               
+    <schema>
+      <key>/schemas/apps/glippy/snippets/paste_on_selection</key>
+      <applyto>/apps/glippy/snippets/paste_on_selection</applyto>
+      <owner>glippy</owner>
+      <type>bool</type>
+      <default>true</default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Paste on selection</short>
+         <long>
+	If set, Glippy emulates Ctrl+V to paste selected snippet content.
+         </long>
+      </locale>
+    </schema>            
+    <schema>
+      <key>/schemas/apps/glippy/upload/pastebin_userkey</key>
+      <applyto>/apps/glippy/upload/pastebin_userkey</applyto>
+      <owner>glippy</owner>
+      <type>string</type>
+      <default></default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Pastebin user key.</short>
+         <long>
+         Key from Pastebin.com which is used to upload texts as user.
+         </long>
+      </locale>
+    </schema>                                                                                  
+    <schema>
+      <key>/schemas/apps/glippy/urlshortener/shortener</key>
+      <applyto>/apps/glippy/urlshortener/shortener</applyto>
+      <owner>glippy</owner>
+      <type>int</type>
+      <default>0</default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Shortener service.</short>
+         <long>
+         Active shortener service (0 - TinyURL, 1 - Bit.Ly).
+         </long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/glippy/urlshortener/bitly_username</key>
+      <applyto>/apps/glippy/urlshortener/bitly_username</applyto>
+      <owner>glippy</owner>
+      <type>string</type>
+      <default></default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Bit.ly account username.</short>
+         <long>
+         Bit.ly account username.
+         </long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/apps/glippy/urlshortener/bitly_apikey</key>
+      <applyto>/apps/glippy/urlshortener/bitly_apikey</applyto>
+      <owner>glippy</owner>
+      <type>string</type>
+      <default></default>
+      <gettext_domain>glippy</gettext_domain>
+      <locale name="C">
+         <short>Bit.ly account API key.</short>
+         <long>
+         Bit.ly account API key, required for application to shorten links.
+         </long>
+      </locale>
+    </schema>
+  </schemalist>
+</gconfschemafile>

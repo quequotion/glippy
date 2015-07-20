@@ -1,0 +1,17 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Glippy
+GenericName=Glippy
+Comment=Simple clipboard manager for GNOME
+Comment[ar]=بسيطة مدير الحافظة لجنوم
+Comment[fr]=Un gestionnaire de presse-papier simple pour GNOME
+Comment[de]=Ein einfacher Zwischenablagenverwalter für GNOME
+Comment[it]=Semplice gestore degli appunti per Gnome
+Comment[pl]=Prosty menadżer schowka dla GNOME
+Comment[ru]=Простой менеджер буфера обмена для GNOME
+Comment[es]=Administrador de portapapeles simple para GNOME
+Exec=glippy
+Icon=glippy
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Utility

@@ -1,0 +1,4 @@
+Glippy installation:
+1) Run ./configure (optionally with --enable-appindicator for Ubuntu Indicator support, --enable-debug_x86 for debugging symbols and info).
+2) make
+3) make install

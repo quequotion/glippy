@@ -1,0 +1,459 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-22 17:49+0200\n"
+"PO-Revision-Date: 2012-07-22 15:48+0000\n"
+"Last-Translator: Biko <Unknown>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-07-22 16:44+0000\n"
+"X-Generator: Launchpad (build 15654)\n"
+"Language: pl\n"
+
+msgid "_Clear clipboard"
+msgstr "_Wyczyść schowek"
+
+msgid "_Edit current content"
+msgstr "_Edytuj bieżącą zawartość"
+
+msgid "_Preferences"
+msgstr "_Preferencje"
+
+msgid "_About"
+msgstr "_O programie"
+
+msgid "_Quit"
+msgstr "_Zakończ"
+
+msgid "Glippy Preferences"
+msgstr "Preferencje programu Glippy"
+
+msgid "Start Glippy at login"
+msgstr "Uruchamianie Glippy przy zalogowaniu"
+
+msgid "Enable keyboard clipboard (Ctrl+C/Ctrl+V)"
+msgstr "Użycie schowka klawiatury (Ctrl+C, Ctrl+V)"
+
+msgid "Store images"
+msgstr "Przechowywanie obrazów"
+
+msgid "Store supported files as images"
+msgstr "Przechowywanie obsługiwanych plików jako obrazy"
+
+msgid "Enable mouse clipboard (selection/middle click)"
+msgstr "Użycie schowka myszy (zaznaczenie, środkowy przycisk)"
+
+msgid "Synchronize clipboards"
+msgstr "Synchronizacja schowków"
+
+msgid "Save history on exit"
+msgstr "Zapis historii przy zakończeniu"
+
+msgid "Paste item content on selection"
+msgstr "Wklejanie zawartości wybranego elementu"
+
+msgid "_Basic"
+msgstr "_Podstawowe"
+
+msgid "Clipboard size:"
+msgstr "Rozmiar schowka:"
+
+msgid "Label length:"
+msgstr "Długość etykiety:"
+
+msgid "Reverse order of items"
+msgstr "Odwrotna kolejność elementów"
+
+msgid "Use paste icon instead default (needs restart)"
+msgstr "Ikona wklejenia zamiast domyślnej (wymaga restartu)"
+
+msgid "Show 'About' menu entry"
+msgstr "Wyświetlanie pozycji \"O programie\" w menu"
+
+msgid "Show 'Edit clipboard' menu entry"
+msgstr "Wyświetlanie pozycji \"Edytuj bieżącą zawartość\" w menu"
+
+msgid "Show 'Quit' menu entry"
+msgstr "Wyświetlanie pozycji \"Zakończ\" w menu"
+
+msgid "_Interface"
+msgstr "_Interfejs"
+
+msgid "Menu hotkey"
+msgstr "Skrót menu"
+
+msgid "Grab"
+msgstr "Złap"
+
+msgid "'Copy' hotkey for mouse clipboard"
+msgstr "Skrót \"Kopiuj\" dla schowka myszy"
+
+msgid "H_otkeys"
+msgstr "_Skróty"
+
+msgid "Here you can configure which plugins Glippy should use."
+msgstr "Tutaj możesz ustawić z których wtyczek Glippy ma korzystać."
+
+msgid "Keep in mind, that some of them may require restart."
+msgstr "Pamiętaj, że niektóre mogą wymagać restartu."
+
+msgid "_Plugins"
+msgstr "_Wtyczki"
+
+msgid "_Close"
+msgstr "Za_mknij"
+
+msgid "Edit clipboard content"
+msgstr "Edycja zawartości schowka"
+
+msgid "C_ontent"
+msgstr "_Zawartość"
+
+msgid "_Apply"
+msgstr "_Zastosuj"
+
+msgid "_Cancel"
+msgstr "_Anuluj"
+
+msgid "Not so simple clipboard manager for GNOME"
+msgstr "Nie taki prosty menadżer schowka dla GNOME"
+
+msgid "Enabled"
+msgstr "Aktywny"
+
+msgid "Name"
+msgstr "Nazwa"
+
+msgid "Description"
+msgstr "Opis"
+
+msgid "Tray icon"
+msgstr "Ikona"
+
+msgid "Notification area icon."
+msgstr "Ikona w obszarze powiadamiania."
+
+msgid "_Upload"
+msgstr "_Wyślij"
+
+msgid "Upload"
+msgstr "Wysyłanie"
+
+msgid "Upload text to Pastebin and images to Imgur."
+msgstr "Wysyłanie tekstu do serwisu Pastebin oraz obrazów do Imgur."
+
+msgid "Error: "
+msgstr "Błąd: "
+
+msgid "Image size is too large."
+msgstr "Rozmiar obrazu jest za duży."
+
+msgid "State"
+msgstr "Stan"
+
+msgid "Original image"
+msgstr "Oryginalny obraz"
+
+msgid "Large thumbnail"
+msgstr "Duża miniatura"
+
+msgid "Small thumbnail"
+msgstr "Mała miniatura"
+
+msgid "Imgur page"
+msgstr "Strona Imgur"
+
+msgid "Delete page"
+msgstr "Strona kasowania"
+
+msgid "Error code"
+msgstr "Kod błędu"
+
+msgid "Error message"
+msgstr "Wiadomość z błędem"
+
+msgid "Upload clipboard content"
+msgstr "Wysyłanie zawartości schowka"
+
+msgid "<b>Type:</b>"
+msgstr "<b>Typ:</b>"
+
+msgid "_Text"
+msgstr "_Tekst"
+
+msgid "_Image"
+msgstr "_Obraz"
+
+msgid "_Name:"
+msgstr "_Nazwa"
+
+msgid "E_xpiration date:"
+msgstr "O_kres ważności"
+
+msgid "Never"
+msgstr "Nigdy"
+
+msgid "1 month"
+msgstr "1 miesiąc"
+
+msgid "1 day"
+msgstr "1 dzień"
+
+msgid "1 hour"
+msgstr "1 godzina"
+
+msgid "10 minutes"
+msgstr "10 minut"
+
+msgid "_Privacy:"
+msgstr "_Prywatność"
+
+msgid "Public"
+msgstr "Publiczny"
+
+msgid "Unlisted"
+msgstr "Ukryty"
+
+msgid "Use _account"
+msgstr "Użycie konta"
+
+msgid "Uploading..."
+msgstr "Wysyłanie..."
+
+msgid "Text field is empty."
+msgstr "Pole tekstowe jest puste."
+
+msgid "Upload finished"
+msgstr "Wysyłanie zakończone"
+
+msgid "Image is empty."
+msgstr "Obraz jest pusty."
+
+msgid "Private"
+msgstr "Prywatny"
+
+msgid "Username and password are required."
+msgstr "Nazwa użytkownika i hasło są wymagane."
+
+msgid "Invalid username or password."
+msgstr "Niepoprawna nazwa użytkownika lub hasło."
+
+msgid ""
+"Login successful. From now you can upload texts to your Pastebin account."
+msgstr ""
+"Logowanie zakończone powodzeniem. Od tej chwili możesz wysyłać teksty do "
+"twojego konta Pastebin."
+
+msgid "_Username"
+msgstr "_Użytkownik"
+
+msgid "_Password"
+msgstr "_Hasło"
+
+msgid "_Login"
+msgstr "_Użytkownik"
+
+msgid "Cl_ear"
+msgstr "W_yczyść"
+
+msgid "<b>Pastebin account</b>"
+msgstr "<b>Konto Pastebin</b>"
+
+msgid "Indicator"
+msgstr "Ikona wskaźnika"
+
+msgid "Ubuntu indicator icon."
+msgstr "Ikona w obszarze wskaźników Ubuntu."
+
+msgid "_Snippets"
+msgstr "S_nippety"
+
+msgid "Snippets"
+msgstr "Snippety"
+
+msgid "Store small parts of reusable texts."
+msgstr "Małe fragmenty tekstów."
+
+msgid "_Make snippet from current content"
+msgstr "_Stwórz snippet z bieżącej zawartości schowka"
+
+msgid "Label"
+msgstr "Etykieta"
+
+msgid "Content"
+msgstr "Zawartość"
+
+msgid "Enable snippets"
+msgstr "Snippety"
+
+msgid "Paste content on snippet selection"
+msgstr "Wklejanie zawartości wybranego snippetu"
+
+msgid "_Remove"
+msgstr "_Usuń"
+
+msgid "_Edit"
+msgstr "_Edytuj"
+
+msgid "_Add"
+msgstr "_Dodaj"
+
+msgid "Edit snippet"
+msgstr "Edycja snippetu"
+
+msgid "Label is required."
+msgstr "Etykieta jest wymagana."
+
+msgid "Content is required."
+msgstr "Zawartość jest wymagana."
+
+msgid "Add snippet"
+msgstr "Dodawanie snippetu"
+
+msgid "Both label and content are required."
+msgstr "Zarówno etykieta jak i zawartość są wymagane."
+
+msgid "You can use underscore in label for menu shortcut."
+msgstr "Możesz użyć Możesz użyć podkreślnika w etykiecie do skrótu w menu."
+
+msgid "_Label"
+msgstr "_Etykieta"
+
+msgid "Enable actions"
+msgstr "Akcje"
+
+msgid "Edit action"
+msgstr "Edycja akcji"
+
+msgid "Add action"
+msgstr "Dodawanie akcji"
+
+msgid ""
+"You can use underscore in label for menu shortcut and %s in content as text "
+"placeholder. Each line is executed separately."
+msgstr ""
+"Możesz użyć podkreślnika w etykiecie do skrótu w menu oraz %s w zawartości "
+"jako miejsce tekstu z schowka. Każda linia jest wykonywana oddzielnie."
+
+msgid "_Actions"
+msgstr "_Akcje"
+
+msgid "Actions"
+msgstr "Akcje"
+
+msgid "Execute actions on current clipboard content."
+msgstr "Wykonywanie akcji na bieżącej zawartości schowka."
+
+msgid "Sc_reen"
+msgstr "Ek_ran"
+
+msgid "Screenshot"
+msgstr "Zrzuty"
+
+msgid "Create screenshots, pick colors from screen."
+msgstr "Twórz zrzuty ekranu, pobieraj z niego kolory."
+
+msgid "_Take region screenshot"
+msgstr "Zrób zrzut _ekranu"
+
+msgid "Take screenshot of _entire screen"
+msgstr "Zrób zrzut _całego ekranu"
+
+msgid "_Pick color"
+msgstr "_Pobierz kolor"
+
+msgid "Picked color"
+msgstr "Pobrany kolor"
+
+msgid "Red:"
+msgstr "Czerwony:"
+
+msgid "Green:"
+msgstr "Zielony:"
+
+msgid "Blue:"
+msgstr "Niebieski:"
+
+msgid "Hue:"
+msgstr "Odcień:"
+
+msgid "Saturation:"
+msgstr "Nasycenie:"
+
+msgid "Value:"
+msgstr "Wartość:"
+
+msgid "Hex:"
+msgstr "Hex:"
+
+msgid "Image preview"
+msgstr "Podgląd obrazu"
+
+msgid "Width:"
+msgstr "Szerokość:"
+
+msgid "Height:"
+msgstr "Wysokość:"
+
+msgid "Date:"
+msgstr "Data:"
+
+msgid "C_opy to clipboard"
+msgstr "_Kopiuj do schowka"
+
+msgid "_Save to file"
+msgstr "Zapisz do _pliku"
+
+msgid "Save image"
+msgstr "Zapis obrazu"
+
+msgid "Cancel"
+msgstr "_Anuluj"
+
+msgid "Save"
+msgstr "_Zapisz"
+
+msgid "Invalid login or API key"
+msgstr "Niepoprawny użytkownik lub klucz API"
+
+msgid "Unspecified error."
+msgstr "Błąd."
+
+msgid "S_horten URL"
+msgstr "Skróć _URL"
+
+msgid "Shortened URL:"
+msgstr "Skrócony URL:"
+
+msgid "URL shortener"
+msgstr "Skracacz URL"
+
+msgid "Shorten URLs with bit.ly or TinyURL."
+msgstr "Skracanie linków za pomocą bit.ly lub TinyURL."
+
+msgid "_URL shortener:"
+msgstr "Skracacz _URL"
+
+msgid "TinyURL.com"
+msgstr "TinyURL.com"
+
+msgid "Bit.ly"
+msgstr "Bit.ly"
+
+msgid ""
+"Bitly URL shortener requires your account details.\n"
+"You can find your API key <a "
+"href=\"https://bitly.com/a/your_api_key\">here</a>."
+msgstr ""
+"Skracacz URL Bitly wymaga szczegółów konta.\n"
+"Swój klucz API możesz znaleźć <a "
+"href=\"https://bitly.com/a/your_api_key\">tutaj</a>."
+
+msgid "_API key"
+msgstr "Klucz _API"
+
+msgid "<b>Bit.ly account</b>"
+msgstr "<b>Konto Bit.ly</b>"

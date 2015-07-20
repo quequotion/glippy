@@ -1,0 +1,456 @@
+# Czech translation for glippy
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the glippy package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: glippy\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-07-22 17:49+0200\n"
+"PO-Revision-Date: 2011-10-15 21:46+0000\n"
+"Last-Translator: pepawo <jklimosz@gmail.com>\n"
+"Language-Team: Czech <cs@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-07-22 16:44+0000\n"
+"X-Generator: Launchpad (build 15654)\n"
+
+msgid "_Clear clipboard"
+msgstr "_Vymazat schránku"
+
+msgid "_Edit current content"
+msgstr "_Editovat aktuální obsah"
+
+msgid "_Preferences"
+msgstr "_Nastaveni"
+
+msgid "_About"
+msgstr ""
+
+msgid "_Quit"
+msgstr "_Ukončit"
+
+msgid "Glippy Preferences"
+msgstr "Nastavení Glippy"
+
+msgid "Start Glippy at login"
+msgstr "Spustit Glippy při přihlášení"
+
+msgid "Enable keyboard clipboard (Ctrl+C/Ctrl+V)"
+msgstr "Zapnout schránku klávesnice (Ctrl+C/Ctrl+V)"
+
+msgid "Store images"
+msgstr "Ukládat obrázky"
+
+msgid "Store supported files as images"
+msgstr ""
+
+msgid "Enable mouse clipboard (selection/middle click)"
+msgstr "Zapnout schránku myši (výběr/prostřední klik)"
+
+msgid "Synchronize clipboards"
+msgstr "Synchronizovat schránky"
+
+msgid "Save history on exit"
+msgstr "Při ukončení uložit historii"
+
+msgid "Paste item content on selection"
+msgstr ""
+
+msgid "_Basic"
+msgstr "Zá_kladní"
+
+msgid "Clipboard size:"
+msgstr "Velikost schránky:"
+
+msgid "Label length:"
+msgstr "Délka popisku:"
+
+msgid "Reverse order of items"
+msgstr "Obrácené pořadí položek"
+
+msgid "Use paste icon instead default (needs restart)"
+msgstr "Použít ikonu vložení místo defaultní (nutno restartovat)"
+
+msgid "Show 'About' menu entry"
+msgstr "Zobrazovat menu 'O aplikaci'"
+
+msgid "Show 'Edit clipboard' menu entry"
+msgstr "Zobrazovat menu 'Editovat schránku'"
+
+msgid "Show 'Quit' menu entry"
+msgstr "Zobrazovat menu 'Ukončit'"
+
+msgid "_Interface"
+msgstr "_Rozhraní"
+
+msgid "Menu hotkey"
+msgstr ""
+
+msgid "Grab"
+msgstr "Zachytit"
+
+msgid "'Copy' hotkey for mouse clipboard"
+msgstr ""
+
+msgid "H_otkeys"
+msgstr "H_orké klávesy"
+
+msgid "Here you can configure which plugins Glippy should use."
+msgstr ""
+
+msgid "Keep in mind, that some of them may require restart."
+msgstr ""
+
+msgid "_Plugins"
+msgstr ""
+
+msgid "_Close"
+msgstr "_Zavřit"
+
+msgid "Edit clipboard content"
+msgstr ""
+
+msgid "C_ontent"
+msgstr "_Obsah"
+
+msgid "_Apply"
+msgstr "Použí_t"
+
+msgid "_Cancel"
+msgstr "_Zrušit"
+
+msgid "Not so simple clipboard manager for GNOME"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Tray icon"
+msgstr ""
+
+msgid "Notification area icon."
+msgstr ""
+
+msgid "_Upload"
+msgstr "_Nahrávání"
+
+msgid "Upload"
+msgstr ""
+
+msgid "Upload text to Pastebin and images to Imgur."
+msgstr ""
+
+msgid "Error: "
+msgstr ""
+
+msgid "Image size is too large."
+msgstr "Obrázek je příliš velký"
+
+msgid "State"
+msgstr "Stav"
+
+msgid "Original image"
+msgstr "Původní obrázek"
+
+msgid "Large thumbnail"
+msgstr "Velký náhled"
+
+msgid "Small thumbnail"
+msgstr "Malý náhled"
+
+msgid "Imgur page"
+msgstr "Stránky Imgur"
+
+msgid "Delete page"
+msgstr "Vymazat stránku"
+
+msgid "Error code"
+msgstr "Chybový kód"
+
+msgid "Error message"
+msgstr "Chybová zpráva"
+
+msgid "Upload clipboard content"
+msgstr ""
+
+msgid "<b>Type:</b>"
+msgstr "<b>Typ:</b>"
+
+msgid "_Text"
+msgstr "_Text"
+
+msgid "_Image"
+msgstr "_Obrázek"
+
+msgid "_Name:"
+msgstr "_Název:"
+
+msgid "E_xpiration date:"
+msgstr "Čas e_xpirace:"
+
+msgid "Never"
+msgstr "Nikdy"
+
+msgid "1 month"
+msgstr "za měsíc"
+
+msgid "1 day"
+msgstr "za den"
+
+msgid "1 hour"
+msgstr "za hodinu"
+
+msgid "10 minutes"
+msgstr "za 10 minut"
+
+msgid "_Privacy:"
+msgstr ""
+
+msgid "Public"
+msgstr ""
+
+msgid "Unlisted"
+msgstr ""
+
+msgid "Use _account"
+msgstr ""
+
+msgid "Uploading..."
+msgstr "Nahrávání..."
+
+msgid "Text field is empty."
+msgstr "Textové pole je prázdné."
+
+msgid "Upload finished"
+msgstr "Nahrávání dokončeno"
+
+msgid "Image is empty."
+msgstr "Obrázek je prázdný."
+
+msgid "Private"
+msgstr ""
+
+msgid "Username and password are required."
+msgstr ""
+
+msgid "Invalid username or password."
+msgstr ""
+
+msgid ""
+"Login successful. From now you can upload texts to your Pastebin account."
+msgstr ""
+
+msgid "_Username"
+msgstr ""
+
+msgid "_Password"
+msgstr ""
+
+msgid "_Login"
+msgstr ""
+
+msgid "Cl_ear"
+msgstr ""
+
+msgid "<b>Pastebin account</b>"
+msgstr ""
+
+msgid "Indicator"
+msgstr ""
+
+msgid "Ubuntu indicator icon."
+msgstr ""
+
+msgid "_Snippets"
+msgstr "Úr_yvky"
+
+msgid "Snippets"
+msgstr ""
+
+msgid "Store small parts of reusable texts."
+msgstr ""
+
+msgid "_Make snippet from current content"
+msgstr "Vytvořit úryvek z aktuálního obsahu"
+
+msgid "Label"
+msgstr "Popisek"
+
+msgid "Content"
+msgstr "Obsah"
+
+msgid "Enable snippets"
+msgstr "Zapnout úryvky"
+
+msgid "Paste content on snippet selection"
+msgstr ""
+
+msgid "_Remove"
+msgstr "Odst_ranit"
+
+msgid "_Edit"
+msgstr ""
+
+msgid "_Add"
+msgstr "Přid_at"
+
+msgid "Edit snippet"
+msgstr ""
+
+msgid "Label is required."
+msgstr ""
+
+msgid "Content is required."
+msgstr ""
+
+msgid "Add snippet"
+msgstr ""
+
+msgid "Both label and content are required."
+msgstr ""
+
+msgid "You can use underscore in label for menu shortcut."
+msgstr ""
+
+msgid "_Label"
+msgstr "_Popisek"
+
+msgid "Enable actions"
+msgstr "Zapnout akce"
+
+msgid "Edit action"
+msgstr ""
+
+msgid "Add action"
+msgstr ""
+
+msgid ""
+"You can use underscore in label for menu shortcut and %s in content as text "
+"placeholder. Each line is executed separately."
+msgstr ""
+
+msgid "_Actions"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Execute actions on current clipboard content."
+msgstr ""
+
+msgid "Sc_reen"
+msgstr ""
+
+msgid "Screenshot"
+msgstr ""
+
+msgid "Create screenshots, pick colors from screen."
+msgstr ""
+
+msgid "_Take region screenshot"
+msgstr ""
+
+msgid "Take screenshot of _entire screen"
+msgstr ""
+
+msgid "_Pick color"
+msgstr ""
+
+msgid "Picked color"
+msgstr ""
+
+msgid "Red:"
+msgstr ""
+
+msgid "Green:"
+msgstr ""
+
+msgid "Blue:"
+msgstr ""
+
+msgid "Hue:"
+msgstr ""
+
+msgid "Saturation:"
+msgstr ""
+
+msgid "Value:"
+msgstr ""
+
+msgid "Hex:"
+msgstr ""
+
+msgid "Image preview"
+msgstr ""
+
+msgid "Width:"
+msgstr ""
+
+msgid "Height:"
+msgstr ""
+
+msgid "Date:"
+msgstr ""
+
+msgid "C_opy to clipboard"
+msgstr ""
+
+msgid "_Save to file"
+msgstr ""
+
+msgid "Save image"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Invalid login or API key"
+msgstr ""
+
+msgid "Unspecified error."
+msgstr ""
+
+msgid "S_horten URL"
+msgstr ""
+
+msgid "Shortened URL:"
+msgstr ""
+
+msgid "URL shortener"
+msgstr ""
+
+msgid "Shorten URLs with bit.ly or TinyURL."
+msgstr ""
+
+msgid "_URL shortener:"
+msgstr ""
+
+msgid "TinyURL.com"
+msgstr ""
+
+msgid "Bit.ly"
+msgstr ""
+
+msgid ""
+"Bitly URL shortener requires your account details.\n"
+"You can find your API key <a "
+"href=\"https://bitly.com/a/your_api_key\">here</a>."
+msgstr ""
+
+msgid "_API key"
+msgstr ""
+
+msgid "<b>Bit.ly account</b>"
+msgstr ""

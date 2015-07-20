@@ -1,0 +1,456 @@
+# Norwegian Bokmal translation for glippy
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the glippy package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: glippy\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-07-22 17:49+0200\n"
+"PO-Revision-Date: 2011-10-15 21:46+0000\n"
+"Last-Translator: Kjetil Rydland <kjetilrydl@gmail.com>\n"
+"Language-Team: Norwegian Bokmal <nb@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-07-22 16:44+0000\n"
+"X-Generator: Launchpad (build 15654)\n"
+
+msgid "_Clear clipboard"
+msgstr "_Tøm utklippstavle"
+
+msgid "_Edit current content"
+msgstr "_Rediger innhold"
+
+msgid "_Preferences"
+msgstr "_Innstillinger"
+
+msgid "_About"
+msgstr ""
+
+msgid "_Quit"
+msgstr "_Avslutt"
+
+msgid "Glippy Preferences"
+msgstr "Innstillinger for Glippy"
+
+msgid "Start Glippy at login"
+msgstr "Start Glippy når du logger inn"
+
+msgid "Enable keyboard clipboard (Ctrl+C/Ctrl+V)"
+msgstr "Bruk tastatur-utklippstavlen (Ctrl+C/Ctrl+V)"
+
+msgid "Store images"
+msgstr "Lagre bilder"
+
+msgid "Store supported files as images"
+msgstr ""
+
+msgid "Enable mouse clipboard (selection/middle click)"
+msgstr "Bruk mus-utklippstavlen (valgt tekst/klikk med rullehjul)"
+
+msgid "Synchronize clipboards"
+msgstr "Synkroniser utklippstavlene"
+
+msgid "Save history on exit"
+msgstr "Lagre historikk når du avslutter"
+
+msgid "Paste item content on selection"
+msgstr ""
+
+msgid "_Basic"
+msgstr "_Grunnleggende"
+
+msgid "Clipboard size:"
+msgstr "Størrelse på utklippstavlen"
+
+msgid "Label length:"
+msgstr "Etikettlengde"
+
+msgid "Reverse order of items"
+msgstr "Omvendt rekkefølge"
+
+msgid "Use paste icon instead default (needs restart)"
+msgstr "Bruk «Lim inn»-ikonet i stedet for standard (omstart kreves)"
+
+msgid "Show 'About' menu entry"
+msgstr "Vis «Om» i menyen"
+
+msgid "Show 'Edit clipboard' menu entry"
+msgstr "Vis «Rediger utklippstavle» i menyen"
+
+msgid "Show 'Quit' menu entry"
+msgstr "Vis «Avslutt» i menyen"
+
+msgid "_Interface"
+msgstr "G_rensesnitt"
+
+msgid "Menu hotkey"
+msgstr ""
+
+msgid "Grab"
+msgstr "Ta"
+
+msgid "'Copy' hotkey for mouse clipboard"
+msgstr ""
+
+msgid "H_otkeys"
+msgstr "_Hurtigtaster"
+
+msgid "Here you can configure which plugins Glippy should use."
+msgstr ""
+
+msgid "Keep in mind, that some of them may require restart."
+msgstr ""
+
+msgid "_Plugins"
+msgstr ""
+
+msgid "_Close"
+msgstr "L_ukk"
+
+msgid "Edit clipboard content"
+msgstr ""
+
+msgid "C_ontent"
+msgstr "I_nnhold"
+
+msgid "_Apply"
+msgstr "_Bruk"
+
+msgid "_Cancel"
+msgstr "_Avbryt"
+
+msgid "Not so simple clipboard manager for GNOME"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Tray icon"
+msgstr ""
+
+msgid "Notification area icon."
+msgstr ""
+
+msgid "_Upload"
+msgstr "_Last opp"
+
+msgid "Upload"
+msgstr ""
+
+msgid "Upload text to Pastebin and images to Imgur."
+msgstr ""
+
+msgid "Error: "
+msgstr ""
+
+msgid "Image size is too large."
+msgstr "Bildet er for stort"
+
+msgid "State"
+msgstr "Status"
+
+msgid "Original image"
+msgstr "Originalbilde"
+
+msgid "Large thumbnail"
+msgstr "Stort miniatyrbilde"
+
+msgid "Small thumbnail"
+msgstr "Lite miniatyrbilde"
+
+msgid "Imgur page"
+msgstr "Imgur-side"
+
+msgid "Delete page"
+msgstr "Slett side"
+
+msgid "Error code"
+msgstr "Feilkode"
+
+msgid "Error message"
+msgstr "Feilmelding"
+
+msgid "Upload clipboard content"
+msgstr ""
+
+msgid "<b>Type:</b>"
+msgstr "<b>Type:</b>"
+
+msgid "_Text"
+msgstr "_Tekst"
+
+msgid "_Image"
+msgstr "_Bilde"
+
+msgid "_Name:"
+msgstr "_Navn"
+
+msgid "E_xpiration date:"
+msgstr "_Utløpsdato"
+
+msgid "Never"
+msgstr "Aldri"
+
+msgid "1 month"
+msgstr "1 måned"
+
+msgid "1 day"
+msgstr "1 dag"
+
+msgid "1 hour"
+msgstr "1 time"
+
+msgid "10 minutes"
+msgstr "10 minutter"
+
+msgid "_Privacy:"
+msgstr ""
+
+msgid "Public"
+msgstr ""
+
+msgid "Unlisted"
+msgstr ""
+
+msgid "Use _account"
+msgstr ""
+
+msgid "Uploading..."
+msgstr "Laster opp..."
+
+msgid "Text field is empty."
+msgstr "Tekstfeltet er tomt"
+
+msgid "Upload finished"
+msgstr "Opplastingen er ferdig"
+
+msgid "Image is empty."
+msgstr "Bildet er tomt"
+
+msgid "Private"
+msgstr ""
+
+msgid "Username and password are required."
+msgstr ""
+
+msgid "Invalid username or password."
+msgstr ""
+
+msgid ""
+"Login successful. From now you can upload texts to your Pastebin account."
+msgstr ""
+
+msgid "_Username"
+msgstr ""
+
+msgid "_Password"
+msgstr ""
+
+msgid "_Login"
+msgstr ""
+
+msgid "Cl_ear"
+msgstr ""
+
+msgid "<b>Pastebin account</b>"
+msgstr ""
+
+msgid "Indicator"
+msgstr ""
+
+msgid "Ubuntu indicator icon."
+msgstr ""
+
+msgid "_Snippets"
+msgstr "_Utdrag"
+
+msgid "Snippets"
+msgstr ""
+
+msgid "Store small parts of reusable texts."
+msgstr ""
+
+msgid "_Make snippet from current content"
+msgstr "L_ag utdrag av innhold"
+
+msgid "Label"
+msgstr "Etikett"
+
+msgid "Content"
+msgstr "Innhold"
+
+msgid "Enable snippets"
+msgstr "Bruk utdrag"
+
+msgid "Paste content on snippet selection"
+msgstr ""
+
+msgid "_Remove"
+msgstr "_Fjern"
+
+msgid "_Edit"
+msgstr ""
+
+msgid "_Add"
+msgstr "_Legg til"
+
+msgid "Edit snippet"
+msgstr ""
+
+msgid "Label is required."
+msgstr ""
+
+msgid "Content is required."
+msgstr ""
+
+msgid "Add snippet"
+msgstr ""
+
+msgid "Both label and content are required."
+msgstr ""
+
+msgid "You can use underscore in label for menu shortcut."
+msgstr ""
+
+msgid "_Label"
+msgstr "_Etikett"
+
+msgid "Enable actions"
+msgstr "Slå på handlinger"
+
+msgid "Edit action"
+msgstr ""
+
+msgid "Add action"
+msgstr ""
+
+msgid ""
+"You can use underscore in label for menu shortcut and %s in content as text "
+"placeholder. Each line is executed separately."
+msgstr ""
+
+msgid "_Actions"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Execute actions on current clipboard content."
+msgstr ""
+
+msgid "Sc_reen"
+msgstr ""
+
+msgid "Screenshot"
+msgstr ""
+
+msgid "Create screenshots, pick colors from screen."
+msgstr ""
+
+msgid "_Take region screenshot"
+msgstr ""
+
+msgid "Take screenshot of _entire screen"
+msgstr ""
+
+msgid "_Pick color"
+msgstr ""
+
+msgid "Picked color"
+msgstr ""
+
+msgid "Red:"
+msgstr ""
+
+msgid "Green:"
+msgstr ""
+
+msgid "Blue:"
+msgstr ""
+
+msgid "Hue:"
+msgstr ""
+
+msgid "Saturation:"
+msgstr ""
+
+msgid "Value:"
+msgstr ""
+
+msgid "Hex:"
+msgstr ""
+
+msgid "Image preview"
+msgstr ""
+
+msgid "Width:"
+msgstr ""
+
+msgid "Height:"
+msgstr ""
+
+msgid "Date:"
+msgstr ""
+
+msgid "C_opy to clipboard"
+msgstr ""
+
+msgid "_Save to file"
+msgstr ""
+
+msgid "Save image"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Invalid login or API key"
+msgstr ""
+
+msgid "Unspecified error."
+msgstr ""
+
+msgid "S_horten URL"
+msgstr ""
+
+msgid "Shortened URL:"
+msgstr ""
+
+msgid "URL shortener"
+msgstr ""
+
+msgid "Shorten URLs with bit.ly or TinyURL."
+msgstr ""
+
+msgid "_URL shortener:"
+msgstr ""
+
+msgid "TinyURL.com"
+msgstr ""
+
+msgid "Bit.ly"
+msgstr ""
+
+msgid ""
+"Bitly URL shortener requires your account details.\n"
+"You can find your API key <a "
+"href=\"https://bitly.com/a/your_api_key\">here</a>."
+msgstr ""
+
+msgid "_API key"
+msgstr ""
+
+msgid "<b>Bit.ly account</b>"
+msgstr ""

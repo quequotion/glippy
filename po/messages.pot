@@ -1,0 +1,450 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2012-07-22 17:49:31+0200\n"
+"PO-Revision-Date: 2012-07-22 17:49:31+0200\n"
+"Last-Translator: Wojciech Kowalczyk\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: MonoDevelop Gettext addin\n"
+
+msgid "_Clear clipboard"
+msgstr ""
+
+msgid "_Edit current content"
+msgstr ""
+
+msgid "_Preferences"
+msgstr ""
+
+msgid "_About"
+msgstr ""
+
+msgid "_Quit"
+msgstr ""
+
+msgid "Glippy Preferences"
+msgstr ""
+
+msgid "Start Glippy at login"
+msgstr ""
+
+msgid "Enable keyboard clipboard (Ctrl+C/Ctrl+V)"
+msgstr ""
+
+msgid "Store images"
+msgstr ""
+
+msgid "Store supported files as images"
+msgstr ""
+
+msgid "Enable mouse clipboard (selection/middle click)"
+msgstr ""
+
+msgid "Synchronize clipboards"
+msgstr ""
+
+msgid "Save history on exit"
+msgstr ""
+
+msgid "Paste item content on selection"
+msgstr ""
+
+msgid "_Basic"
+msgstr ""
+
+msgid "Clipboard size:"
+msgstr ""
+
+msgid "Label length:"
+msgstr ""
+
+msgid "Reverse order of items"
+msgstr ""
+
+msgid "Use paste icon instead default (needs restart)"
+msgstr ""
+
+msgid "Show 'About' menu entry"
+msgstr ""
+
+msgid "Show 'Edit clipboard' menu entry"
+msgstr ""
+
+msgid "Show 'Quit' menu entry"
+msgstr ""
+
+msgid "_Interface"
+msgstr ""
+
+msgid "Menu hotkey"
+msgstr ""
+
+msgid "Grab"
+msgstr ""
+
+msgid "'Copy' hotkey for mouse clipboard"
+msgstr ""
+
+msgid "H_otkeys"
+msgstr ""
+
+msgid "Here you can configure which plugins Glippy should use."
+msgstr ""
+
+msgid "Keep in mind, that some of them may require restart."
+msgstr ""
+
+msgid "_Plugins"
+msgstr ""
+
+msgid "_Close"
+msgstr ""
+
+msgid "Edit clipboard content"
+msgstr ""
+
+msgid "C_ontent"
+msgstr ""
+
+msgid "_Apply"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "Not so simple clipboard manager for GNOME"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Tray icon"
+msgstr ""
+
+msgid "Notification area icon."
+msgstr ""
+
+msgid "_Upload"
+msgstr ""
+
+msgid "Upload"
+msgstr ""
+
+msgid "Upload text to Pastebin and images to Imgur."
+msgstr ""
+
+msgid "Error: "
+msgstr ""
+
+msgid "Image size is too large."
+msgstr ""
+
+msgid "State"
+msgstr ""
+
+msgid "Original image"
+msgstr ""
+
+msgid "Large thumbnail"
+msgstr ""
+
+msgid "Small thumbnail"
+msgstr ""
+
+msgid "Imgur page"
+msgstr ""
+
+msgid "Delete page"
+msgstr ""
+
+msgid "Error code"
+msgstr ""
+
+msgid "Error message"
+msgstr ""
+
+msgid "Upload clipboard content"
+msgstr ""
+
+msgid "<b>Type:</b>"
+msgstr ""
+
+msgid "_Text"
+msgstr ""
+
+msgid "_Image"
+msgstr ""
+
+msgid "_Name:"
+msgstr ""
+
+msgid "E_xpiration date:"
+msgstr ""
+
+msgid "Never"
+msgstr ""
+
+msgid "1 month"
+msgstr ""
+
+msgid "1 day"
+msgstr ""
+
+msgid "1 hour"
+msgstr ""
+
+msgid "10 minutes"
+msgstr ""
+
+msgid "_Privacy:"
+msgstr ""
+
+msgid "Public"
+msgstr ""
+
+msgid "Unlisted"
+msgstr ""
+
+msgid "Use _account"
+msgstr ""
+
+msgid "Uploading..."
+msgstr ""
+
+msgid "Text field is empty."
+msgstr ""
+
+msgid "Upload finished"
+msgstr ""
+
+msgid "Image is empty."
+msgstr ""
+
+msgid "Private"
+msgstr ""
+
+msgid "Username and password are required."
+msgstr ""
+
+msgid "Invalid username or password."
+msgstr ""
+
+msgid ""
+"Login successful. From now you can upload texts to your Pastebin account."
+msgstr ""
+
+msgid "_Username"
+msgstr ""
+
+msgid "_Password"
+msgstr ""
+
+msgid "_Login"
+msgstr ""
+
+msgid "Cl_ear"
+msgstr ""
+
+msgid "<b>Pastebin account</b>"
+msgstr ""
+
+msgid "Indicator"
+msgstr ""
+
+msgid "Ubuntu indicator icon."
+msgstr ""
+
+msgid "_Snippets"
+msgstr ""
+
+msgid "Snippets"
+msgstr ""
+
+msgid "Store small parts of reusable texts."
+msgstr ""
+
+msgid "_Make snippet from current content"
+msgstr ""
+
+msgid "Label"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Enable snippets"
+msgstr ""
+
+msgid "Paste content on snippet selection"
+msgstr ""
+
+msgid "_Remove"
+msgstr ""
+
+msgid "_Edit"
+msgstr ""
+
+msgid "_Add"
+msgstr ""
+
+msgid "Edit snippet"
+msgstr ""
+
+msgid "Label is required."
+msgstr ""
+
+msgid "Content is required."
+msgstr ""
+
+msgid "Add snippet"
+msgstr ""
+
+msgid "Both label and content are required."
+msgstr ""
+
+msgid "You can use underscore in label for menu shortcut."
+msgstr ""
+
+msgid "_Label"
+msgstr ""
+
+msgid "Enable actions"
+msgstr ""
+
+msgid "Edit action"
+msgstr ""
+
+msgid "Add action"
+msgstr ""
+
+msgid ""
+"You can use underscore in label for menu shortcut and %s in content as text "
+"placeholder. Each line is executed separately."
+msgstr ""
+
+msgid "_Actions"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Execute actions on current clipboard content."
+msgstr ""
+
+msgid "Sc_reen"
+msgstr ""
+
+msgid "Screenshot"
+msgstr ""
+
+msgid "Create screenshots, pick colors from screen."
+msgstr ""
+
+msgid "_Take region screenshot"
+msgstr ""
+
+msgid "Take screenshot of _entire screen"
+msgstr ""
+
+msgid "_Pick color"
+msgstr ""
+
+msgid "Picked color"
+msgstr ""
+
+msgid "Red:"
+msgstr ""
+
+msgid "Green:"
+msgstr ""
+
+msgid "Blue:"
+msgstr ""
+
+msgid "Hue:"
+msgstr ""
+
+msgid "Saturation:"
+msgstr ""
+
+msgid "Value:"
+msgstr ""
+
+msgid "Hex:"
+msgstr ""
+
+msgid "Image preview"
+msgstr ""
+
+msgid "Width:"
+msgstr ""
+
+msgid "Height:"
+msgstr ""
+
+msgid "Date:"
+msgstr ""
+
+msgid "C_opy to clipboard"
+msgstr ""
+
+msgid "_Save to file"
+msgstr ""
+
+msgid "Save image"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Invalid login or API key"
+msgstr ""
+
+msgid "Unspecified error."
+msgstr ""
+
+msgid "S_horten URL"
+msgstr ""
+
+msgid "Shortened URL:"
+msgstr ""
+
+msgid "URL shortener"
+msgstr ""
+
+msgid "Shorten URLs with bit.ly or TinyURL."
+msgstr ""
+
+msgid "_URL shortener:"
+msgstr ""
+
+msgid "TinyURL.com"
+msgstr ""
+
+msgid "Bit.ly"
+msgstr ""
+
+msgid ""
+"Bitly URL shortener requires your account details.\n"
+"You can find your API key <a "
+"href=\"https://bitly.com/a/your_api_key\">here</a>."
+msgstr ""
+
+msgid "_API key"
+msgstr ""
+
+msgid "<b>Bit.ly account</b>"
+msgstr ""
+

@@ -1,0 +1,456 @@
+# Indonesian translation for glippy
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the glippy package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: glippy\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-07-22 17:49+0200\n"
+"PO-Revision-Date: 2011-11-23 11:55+0000\n"
+"Last-Translator: Andika Triwidada <andika@gmail.com>\n"
+"Language-Team: Indonesian <id@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-07-22 16:44+0000\n"
+"X-Generator: Launchpad (build 15654)\n"
+
+msgid "_Clear clipboard"
+msgstr "Bersihkan papan _klip"
+
+msgid "_Edit current content"
+msgstr "_Sunting isi kini"
+
+msgid "_Preferences"
+msgstr "_Preferensi"
+
+msgid "_About"
+msgstr "Tent_ang"
+
+msgid "_Quit"
+msgstr "_Keluar"
+
+msgid "Glippy Preferences"
+msgstr "Preferensi Glippy"
+
+msgid "Start Glippy at login"
+msgstr "Jalankan Glippy saat log masuk"
+
+msgid "Enable keyboard clipboard (Ctrl+C/Ctrl+V)"
+msgstr "Aktifkan papan klip papan tik (Ctrl+C/Ctrl+V)"
+
+msgid "Store images"
+msgstr "Simpan gambar"
+
+msgid "Store supported files as images"
+msgstr "Simpan berkas yang didukung sebagai gambar"
+
+msgid "Enable mouse clipboard (selection/middle click)"
+msgstr "Aktifkan papan klip tetikus (pemilihan/klik tengah)"
+
+msgid "Synchronize clipboards"
+msgstr "Selaraskan papan klip"
+
+msgid "Save history on exit"
+msgstr "Simpan riwayat saat keluar"
+
+msgid "Paste item content on selection"
+msgstr "Tempelkan isi butir pada pilihan"
+
+msgid "_Basic"
+msgstr "_Dasar"
+
+msgid "Clipboard size:"
+msgstr "Ukuran papan klip:"
+
+msgid "Label length:"
+msgstr "Panjang label:"
+
+msgid "Reverse order of items"
+msgstr "Balikkan urutan butir"
+
+msgid "Use paste icon instead default (needs restart)"
+msgstr "Gunakan ikon tempel bukan bawaan (perlu mulai ulang)"
+
+msgid "Show 'About' menu entry"
+msgstr "Tampilkan entri menu 'Tentang'"
+
+msgid "Show 'Edit clipboard' menu entry"
+msgstr "Tampilkan entri menu 'Sunting papan klip'"
+
+msgid "Show 'Quit' menu entry"
+msgstr "Tampilkan entri menu 'Keluar'"
+
+msgid "_Interface"
+msgstr "_Antar muka"
+
+msgid "Menu hotkey"
+msgstr "Tombol pintas menu"
+
+msgid "Grab"
+msgstr ""
+
+msgid "'Copy' hotkey for mouse clipboard"
+msgstr "Tombol pintas 'Salin' bagi papan tik tetikus"
+
+msgid "H_otkeys"
+msgstr "T_ombol pintas"
+
+msgid "Here you can configure which plugins Glippy should use."
+msgstr "Disini Anda dapat menata plugin mana yang mesti dipakai oleh Glippy."
+
+msgid "Keep in mind, that some of them may require restart."
+msgstr "Ingatlah bahwa beberapa diantaranya mungkin memerlukan start ulang."
+
+msgid "_Plugins"
+msgstr "_Plugin"
+
+msgid "_Close"
+msgstr "_Tutup"
+
+msgid "Edit clipboard content"
+msgstr "Sunting isi papan klip"
+
+msgid "C_ontent"
+msgstr "_Isi"
+
+msgid "_Apply"
+msgstr "Ter_apkan"
+
+msgid "_Cancel"
+msgstr "_Batal"
+
+msgid "Not so simple clipboard manager for GNOME"
+msgstr "Manajer papan klip yang tak begitu sederhana bagi GNOME"
+
+msgid "Enabled"
+msgstr "Diaktifkan"
+
+msgid "Name"
+msgstr "Nama"
+
+msgid "Description"
+msgstr "Deskripsi"
+
+msgid "Tray icon"
+msgstr "Ikon baki"
+
+msgid "Notification area icon."
+msgstr "Ikon area pemberitahuan."
+
+msgid "_Upload"
+msgstr "_Unggah"
+
+msgid "Upload"
+msgstr "Unggah"
+
+msgid "Upload text to Pastebin and images to Imgur."
+msgstr "Unggah teks ke Pastebin dan gambar ke Imgur."
+
+msgid "Error: "
+msgstr ""
+
+msgid "Image size is too large."
+msgstr "Ukuran gambar terlalu besar."
+
+msgid "State"
+msgstr ""
+
+msgid "Original image"
+msgstr "Gambar asli"
+
+msgid "Large thumbnail"
+msgstr ""
+
+msgid "Small thumbnail"
+msgstr ""
+
+msgid "Imgur page"
+msgstr "Halaman Imgur"
+
+msgid "Delete page"
+msgstr "Hapus halaman"
+
+msgid "Error code"
+msgstr "Kode galat"
+
+msgid "Error message"
+msgstr "Pesan galat"
+
+msgid "Upload clipboard content"
+msgstr "Unggah isi papan klip"
+
+msgid "<b>Type:</b>"
+msgstr "<b>Tipe:</b>"
+
+msgid "_Text"
+msgstr "_Teks"
+
+msgid "_Image"
+msgstr "Ga_mbar"
+
+msgid "_Name:"
+msgstr "_Nama:"
+
+msgid "E_xpiration date:"
+msgstr "Tanggal _kedaluarsa"
+
+msgid "Never"
+msgstr "Tak pernah"
+
+msgid "1 month"
+msgstr "1 bulan"
+
+msgid "1 day"
+msgstr "1 hari"
+
+msgid "1 hour"
+msgstr "1 jam"
+
+msgid "10 minutes"
+msgstr "10 menit"
+
+msgid "_Privacy:"
+msgstr ""
+
+msgid "Public"
+msgstr ""
+
+msgid "Unlisted"
+msgstr ""
+
+msgid "Use _account"
+msgstr ""
+
+msgid "Uploading..."
+msgstr "Mengunggah..."
+
+msgid "Text field is empty."
+msgstr "Ruas teks kosong."
+
+msgid "Upload finished"
+msgstr "Pengunggahan selesai"
+
+msgid "Image is empty."
+msgstr "Gambar kosong."
+
+msgid "Private"
+msgstr ""
+
+msgid "Username and password are required."
+msgstr ""
+
+msgid "Invalid username or password."
+msgstr ""
+
+msgid ""
+"Login successful. From now you can upload texts to your Pastebin account."
+msgstr ""
+
+msgid "_Username"
+msgstr ""
+
+msgid "_Password"
+msgstr ""
+
+msgid "_Login"
+msgstr ""
+
+msgid "Cl_ear"
+msgstr ""
+
+msgid "<b>Pastebin account</b>"
+msgstr ""
+
+msgid "Indicator"
+msgstr "Indikator"
+
+msgid "Ubuntu indicator icon."
+msgstr "Ikon indikator Ubuntu."
+
+msgid "_Snippets"
+msgstr "_Snippet"
+
+msgid "Snippets"
+msgstr "Snippet"
+
+msgid "Store small parts of reusable texts."
+msgstr "Simpan bagian-bagian kecil teks yang dapat dipakai ulang."
+
+msgid "_Make snippet from current content"
+msgstr "_Buat snippet dari isi kini"
+
+msgid "Label"
+msgstr "Label"
+
+msgid "Content"
+msgstr "Isi"
+
+msgid "Enable snippets"
+msgstr "Aktifkan snippet"
+
+msgid "Paste content on snippet selection"
+msgstr ""
+
+msgid "_Remove"
+msgstr "Hapu_s"
+
+msgid "_Edit"
+msgstr "_Sunting"
+
+msgid "_Add"
+msgstr "T_ambah"
+
+msgid "Edit snippet"
+msgstr "Sunting snippet"
+
+msgid "Label is required."
+msgstr "Perlu label."
+
+msgid "Content is required."
+msgstr "Perlu isi."
+
+msgid "Add snippet"
+msgstr "Tambahkan snippet"
+
+msgid "Both label and content are required."
+msgstr "Label dan isi keduanya diperlukan."
+
+msgid "You can use underscore in label for menu shortcut."
+msgstr "Anda dapat memakai garis bawah di label bagi pintasan menu."
+
+msgid "_Label"
+msgstr "_Label"
+
+msgid "Enable actions"
+msgstr "Aktifkan aksi"
+
+msgid "Edit action"
+msgstr "Sunting aksi"
+
+msgid "Add action"
+msgstr "Tambahkan aksi"
+
+msgid ""
+"You can use underscore in label for menu shortcut and %s in content as text "
+"placeholder. Each line is executed separately."
+msgstr ""
+
+msgid "_Actions"
+msgstr "_Aksi"
+
+msgid "Actions"
+msgstr "Aksi"
+
+msgid "Execute actions on current clipboard content."
+msgstr "Jalankan aksi pada isi papan klip kini."
+
+msgid "Sc_reen"
+msgstr "Laya_r"
+
+msgid "Screenshot"
+msgstr "Cuplikan layar"
+
+msgid "Create screenshots, pick colors from screen."
+msgstr "Buat cuplikan layar, pilih warna dari layar."
+
+msgid "_Take region screenshot"
+msgstr "Ambil cuplikan _wilayah layar"
+
+msgid "Take screenshot of _entire screen"
+msgstr "Ambil cuplikan s_eluruh layar"
+
+msgid "_Pick color"
+msgstr "_Pilih warna"
+
+msgid "Picked color"
+msgstr "Warna yang dipilih"
+
+msgid "Red:"
+msgstr "Merah:"
+
+msgid "Green:"
+msgstr "Hijau:"
+
+msgid "Blue:"
+msgstr "Biru:"
+
+msgid "Hue:"
+msgstr ""
+
+msgid "Saturation:"
+msgstr ""
+
+msgid "Value:"
+msgstr "Nilai:"
+
+msgid "Hex:"
+msgstr "Heksa:"
+
+msgid "Image preview"
+msgstr "Pratilik gambar"
+
+msgid "Width:"
+msgstr "Lebar:"
+
+msgid "Height:"
+msgstr "Tinggi:"
+
+msgid "Date:"
+msgstr "Tanggal:"
+
+msgid "C_opy to clipboard"
+msgstr "S_alin ke papan klip"
+
+msgid "_Save to file"
+msgstr "_Simpan ke berkas"
+
+msgid "Save image"
+msgstr "Simpan gambar"
+
+msgid "Cancel"
+msgstr "Batal"
+
+msgid "Save"
+msgstr "Simpan"
+
+msgid "Invalid login or API key"
+msgstr ""
+
+msgid "Unspecified error."
+msgstr ""
+
+msgid "S_horten URL"
+msgstr ""
+
+msgid "Shortened URL:"
+msgstr ""
+
+msgid "URL shortener"
+msgstr ""
+
+msgid "Shorten URLs with bit.ly or TinyURL."
+msgstr ""
+
+msgid "_URL shortener:"
+msgstr ""
+
+msgid "TinyURL.com"
+msgstr ""
+
+msgid "Bit.ly"
+msgstr ""
+
+msgid ""
+"Bitly URL shortener requires your account details.\n"
+"You can find your API key <a "
+"href=\"https://bitly.com/a/your_api_key\">here</a>."
+msgstr ""
+
+msgid "_API key"
+msgstr ""
+
+msgid "<b>Bit.ly account</b>"
+msgstr ""

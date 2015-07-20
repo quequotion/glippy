@@ -1,0 +1,459 @@
+# Spanish translation for glippy
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the glippy package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: glippy\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-07-22 17:49+0200\n"
+"PO-Revision-Date: 2012-03-19 12:43+0000\n"
+"Last-Translator: simon <Unknown>\n"
+"Language-Team: Spanish <es@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-07-22 16:44+0000\n"
+"X-Generator: Launchpad (build 15654)\n"
+
+msgid "_Clear clipboard"
+msgstr "_Vaciar portapapeles"
+
+msgid "_Edit current content"
+msgstr "_Editar contenido actual"
+
+msgid "_Preferences"
+msgstr "_Preferencias"
+
+msgid "_About"
+msgstr "_Acerca de"
+
+msgid "_Quit"
+msgstr "_Salir"
+
+msgid "Glippy Preferences"
+msgstr "Preferencias de Glippy"
+
+msgid "Start Glippy at login"
+msgstr "Iniciar Glippy al iniciar sesión"
+
+msgid "Enable keyboard clipboard (Ctrl+C/Ctrl+V)"
+msgstr "Activar portapapeles con teclado (Ctrl+C/Ctrl+V)"
+
+msgid "Store images"
+msgstr "Almacenar imágenes"
+
+msgid "Store supported files as images"
+msgstr "Almacenar archivos compatibles como imágenes"
+
+msgid "Enable mouse clipboard (selection/middle click)"
+msgstr "Activar portapapeles con ratón (seleccionar/clic central)"
+
+msgid "Synchronize clipboards"
+msgstr "Sincronizar portapapeles"
+
+msgid "Save history on exit"
+msgstr "Guardar historial al salir"
+
+msgid "Paste item content on selection"
+msgstr "Pegar el contenido del elemento en la selección"
+
+msgid "_Basic"
+msgstr "_Básico"
+
+msgid "Clipboard size:"
+msgstr "Tamaño del portapapeles:"
+
+msgid "Label length:"
+msgstr "Longitud de etiqueta:"
+
+msgid "Reverse order of items"
+msgstr "Invertir orden de los elementos"
+
+msgid "Use paste icon instead default (needs restart)"
+msgstr "Usar icono de pegado en lugar del predeterminado (requiere reinicio)"
+
+msgid "Show 'About' menu entry"
+msgstr "Mostrar el elemento «Acerca de» en el menú"
+
+msgid "Show 'Edit clipboard' menu entry"
+msgstr "Mostrar el elemento «Editar portapapeles» en el menú"
+
+msgid "Show 'Quit' menu entry"
+msgstr "Mostrar el elemento «Salir» en el menú"
+
+msgid "_Interface"
+msgstr "_Interfaz"
+
+msgid "Menu hotkey"
+msgstr "Atajo de teclado del menú"
+
+msgid "Grab"
+msgstr "Capturar"
+
+msgid "'Copy' hotkey for mouse clipboard"
+msgstr "Tecla rápida para copiar con portapapeles del ratón"
+
+msgid "H_otkeys"
+msgstr "Ataj_os de teclado"
+
+msgid "Here you can configure which plugins Glippy should use."
+msgstr "Aquí puede configurar qué complementos debería usar Glippy."
+
+msgid "Keep in mind, that some of them may require restart."
+msgstr ""
+"Tenga en cuenta que algunos podrían necesitar el reinicio de la aplicación."
+
+msgid "_Plugins"
+msgstr "_Complementos"
+
+msgid "_Close"
+msgstr "_Cerrar"
+
+msgid "Edit clipboard content"
+msgstr "Editar el contenido del portapapeles"
+
+msgid "C_ontent"
+msgstr "C_ontenido"
+
+msgid "_Apply"
+msgstr "_Aplicar"
+
+msgid "_Cancel"
+msgstr "_Cancelar"
+
+msgid "Not so simple clipboard manager for GNOME"
+msgstr "Gestor de portapapeles no tan simple para GNOME"
+
+msgid "Enabled"
+msgstr "Activado"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Tray icon"
+msgstr "Icono en el área de notificación"
+
+msgid "Notification area icon."
+msgstr "Icono en el área de notificación."
+
+msgid "_Upload"
+msgstr "S_ubir"
+
+msgid "Upload"
+msgstr "Subir"
+
+msgid "Upload text to Pastebin and images to Imgur."
+msgstr "Subir texto a Pastebin e imágenes a Imgur."
+
+msgid "Error: "
+msgstr ""
+
+msgid "Image size is too large."
+msgstr "El tamaño de imagen es demasiado grande."
+
+msgid "State"
+msgstr "Estado"
+
+msgid "Original image"
+msgstr "Imagen original"
+
+msgid "Large thumbnail"
+msgstr "Miniatura grande"
+
+msgid "Small thumbnail"
+msgstr "Miniatura pequeña"
+
+msgid "Imgur page"
+msgstr "Página de Imgur"
+
+msgid "Delete page"
+msgstr "Eliminar página"
+
+msgid "Error code"
+msgstr "Código de error"
+
+msgid "Error message"
+msgstr "Mensaje de error"
+
+msgid "Upload clipboard content"
+msgstr "Subir el contenido del portapapeles"
+
+msgid "<b>Type:</b>"
+msgstr "<b>Tipo:</b>"
+
+msgid "_Text"
+msgstr "_Texto"
+
+msgid "_Image"
+msgstr "_Imagen"
+
+msgid "_Name:"
+msgstr "_Nombre:"
+
+msgid "E_xpiration date:"
+msgstr "Fecha de e_xpiración:"
+
+msgid "Never"
+msgstr "Nunca"
+
+msgid "1 month"
+msgstr "1 mes"
+
+msgid "1 day"
+msgstr "1 día"
+
+msgid "1 hour"
+msgstr "1 hora"
+
+msgid "10 minutes"
+msgstr "10 minutos"
+
+msgid "_Privacy:"
+msgstr ""
+
+msgid "Public"
+msgstr ""
+
+msgid "Unlisted"
+msgstr ""
+
+msgid "Use _account"
+msgstr ""
+
+msgid "Uploading..."
+msgstr "Subiendo..."
+
+msgid "Text field is empty."
+msgstr "El campo de texto está vacío."
+
+msgid "Upload finished"
+msgstr "Carga finalizada"
+
+msgid "Image is empty."
+msgstr "La imagen está vacía."
+
+msgid "Private"
+msgstr ""
+
+msgid "Username and password are required."
+msgstr ""
+
+msgid "Invalid username or password."
+msgstr ""
+
+msgid ""
+"Login successful. From now you can upload texts to your Pastebin account."
+msgstr ""
+
+msgid "_Username"
+msgstr ""
+
+msgid "_Password"
+msgstr ""
+
+msgid "_Login"
+msgstr ""
+
+msgid "Cl_ear"
+msgstr ""
+
+msgid "<b>Pastebin account</b>"
+msgstr ""
+
+msgid "Indicator"
+msgstr "Indicador"
+
+msgid "Ubuntu indicator icon."
+msgstr "Icono indicador de Ubuntu."
+
+msgid "_Snippets"
+msgstr "_Snippets"
+
+msgid "Snippets"
+msgstr "Recortes"
+
+msgid "Store small parts of reusable texts."
+msgstr "Guardar pequeñas partes de textos reutilizables."
+
+msgid "_Make snippet from current content"
+msgstr "_Hacer snippet con el contenido actual"
+
+msgid "Label"
+msgstr "Etiqueta"
+
+msgid "Content"
+msgstr "Contenido"
+
+msgid "Enable snippets"
+msgstr "Activar snippets"
+
+msgid "Paste content on snippet selection"
+msgstr "Pegar contenido en la selección del recorte"
+
+msgid "_Remove"
+msgstr "Elimina_r"
+
+msgid "_Edit"
+msgstr "_Editar"
+
+msgid "_Add"
+msgstr "_Añadir"
+
+msgid "Edit snippet"
+msgstr "Editar recorte"
+
+msgid "Label is required."
+msgstr "Se requiere una etiqueta."
+
+msgid "Content is required."
+msgstr "Se requiere el contenido."
+
+msgid "Add snippet"
+msgstr "Añadir recorte"
+
+msgid "Both label and content are required."
+msgstr "Se requiere el contenido y la etiqueta."
+
+msgid "You can use underscore in label for menu shortcut."
+msgstr "Puede usar un guion bajo en la etiqueta para el atajo del menú."
+
+msgid "_Label"
+msgstr "_Etiqueta"
+
+msgid "Enable actions"
+msgstr "Habilitar acciones"
+
+msgid "Edit action"
+msgstr "Editar acción"
+
+msgid "Add action"
+msgstr "Añadir acción"
+
+msgid ""
+"You can use underscore in label for menu shortcut and %s in content as text "
+"placeholder. Each line is executed separately."
+msgstr ""
+"Puede usar el guion bajo en la etiqueta para el atajo de menú, y %s en el "
+"contenido como marcador de posición. Cada línea se ejecuta de forma separada."
+
+msgid "_Actions"
+msgstr "_Acciones"
+
+msgid "Actions"
+msgstr "Acciones"
+
+msgid "Execute actions on current clipboard content."
+msgstr "Ejecutar acciones en el contenido actual del portapapeles."
+
+msgid "Sc_reen"
+msgstr "_Pantalla"
+
+msgid "Screenshot"
+msgstr "Capturar pantalla"
+
+msgid "Create screenshots, pick colors from screen."
+msgstr "Crear capturas de pantalla, tomar colores de la pantalla."
+
+msgid "_Take region screenshot"
+msgstr "Capturar _región"
+
+msgid "Take screenshot of _entire screen"
+msgstr "Capturar _toda la pantalla"
+
+msgid "_Pick color"
+msgstr "_Tomar color"
+
+msgid "Picked color"
+msgstr "Color elegido"
+
+msgid "Red:"
+msgstr "Rojo:"
+
+msgid "Green:"
+msgstr "Verde:"
+
+msgid "Blue:"
+msgstr "Azul:"
+
+msgid "Hue:"
+msgstr "Tono:"
+
+msgid "Saturation:"
+msgstr "Saturación:"
+
+msgid "Value:"
+msgstr "Valor:"
+
+msgid "Hex:"
+msgstr "Hex:"
+
+msgid "Image preview"
+msgstr "Vista previa de imagen"
+
+msgid "Width:"
+msgstr "Anchura:"
+
+msgid "Height:"
+msgstr "Altura:"
+
+msgid "Date:"
+msgstr "Fecha:"
+
+msgid "C_opy to clipboard"
+msgstr "C_opiar al portapapeles"
+
+msgid "_Save to file"
+msgstr "_Guardar en archivo"
+
+msgid "Save image"
+msgstr "Guardar imagen"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Invalid login or API key"
+msgstr ""
+
+msgid "Unspecified error."
+msgstr ""
+
+msgid "S_horten URL"
+msgstr ""
+
+msgid "Shortened URL:"
+msgstr ""
+
+msgid "URL shortener"
+msgstr ""
+
+msgid "Shorten URLs with bit.ly or TinyURL."
+msgstr ""
+
+msgid "_URL shortener:"
+msgstr ""
+
+msgid "TinyURL.com"
+msgstr ""
+
+msgid "Bit.ly"
+msgstr ""
+
+msgid ""
+"Bitly URL shortener requires your account details.\n"
+"You can find your API key <a "
+"href=\"https://bitly.com/a/your_api_key\">here</a>."
+msgstr ""
+
+msgid "_API key"
+msgstr ""
+
+msgid "<b>Bit.ly account</b>"
+msgstr ""

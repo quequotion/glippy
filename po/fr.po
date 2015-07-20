@@ -1,0 +1,459 @@
+# French translation for glippy
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the glippy package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: glippy\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-07-22 17:49+0200\n"
+"PO-Revision-Date: 2011-11-05 09:55+0000\n"
+"Last-Translator: Agmenor <Unknown>\n"
+"Language-Team: French <fr@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-07-22 16:44+0000\n"
+"X-Generator: Launchpad (build 15654)\n"
+
+msgid "_Clear clipboard"
+msgstr "_Effacer le contenu du presse-papier"
+
+msgid "_Edit current content"
+msgstr "_Modifier le contenu actuel"
+
+msgid "_Preferences"
+msgstr "_Préférences"
+
+msgid "_About"
+msgstr ""
+
+msgid "_Quit"
+msgstr "_Quitter"
+
+msgid "Glippy Preferences"
+msgstr "Préférences de Glippy"
+
+msgid "Start Glippy at login"
+msgstr "Démarrer Glippy au lancement de la session"
+
+msgid "Enable keyboard clipboard (Ctrl+C/Ctrl+V)"
+msgstr "Activer les raccourcis clavier du presse-papier (Ctrl+C/Ctrl+V)"
+
+msgid "Store images"
+msgstr "Sauvegarder les images"
+
+msgid "Store supported files as images"
+msgstr ""
+
+msgid "Enable mouse clipboard (selection/middle click)"
+msgstr "Activer le presse-papier de la souris (sélection/clic milieu)"
+
+msgid "Synchronize clipboards"
+msgstr "Synchroniser les presse-papiers"
+
+msgid "Save history on exit"
+msgstr "Sauver l'historique à la fermeture"
+
+msgid "Paste item content on selection"
+msgstr "Coller le contenu sélectionné"
+
+msgid "_Basic"
+msgstr "_Basique"
+
+msgid "Clipboard size:"
+msgstr "Taille du presse-papier :"
+
+msgid "Label length:"
+msgstr "Taille du texte :"
+
+msgid "Reverse order of items"
+msgstr "Inverser l'ordre des éléments"
+
+msgid "Use paste icon instead default (needs restart)"
+msgstr "Utiliser l'icône coller par défaut (redémarrage nécessaire)"
+
+msgid "Show 'About' menu entry"
+msgstr "Afficher le menu « À propos »"
+
+msgid "Show 'Edit clipboard' menu entry"
+msgstr "Afficher le menu « Éditer le presse-papier »"
+
+msgid "Show 'Quit' menu entry"
+msgstr "Afficher le menu « Fermer »"
+
+msgid "_Interface"
+msgstr "_Interface"
+
+msgid "Menu hotkey"
+msgstr "Raccourci clavier vers le menu"
+
+msgid "Grab"
+msgstr "Saisir"
+
+msgid "'Copy' hotkey for mouse clipboard"
+msgstr ""
+
+msgid "H_otkeys"
+msgstr "R_accourcis clavier"
+
+msgid "Here you can configure which plugins Glippy should use."
+msgstr "Configurez ici les greffons utilisés par Glippy."
+
+msgid "Keep in mind, that some of them may require restart."
+msgstr "Note : certains greffons peuvent nécessiter un redémarrage."
+
+msgid "_Plugins"
+msgstr "_Greffons"
+
+msgid "_Close"
+msgstr "Fe_rmer"
+
+msgid "Edit clipboard content"
+msgstr "Éditer le contenu du presse-papier."
+
+msgid "C_ontent"
+msgstr "C_ontenu"
+
+msgid "_Apply"
+msgstr "_Appliquer"
+
+msgid "_Cancel"
+msgstr "_Annuler"
+
+msgid "Not so simple clipboard manager for GNOME"
+msgstr "Presse-papier évolué pour GNOME"
+
+msgid "Enabled"
+msgstr "Activé"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Tray icon"
+msgstr "Icône de notification"
+
+msgid "Notification area icon."
+msgstr "Icône dans la zone de notification."
+
+msgid "_Upload"
+msgstr "Télé_verser"
+
+msgid "Upload"
+msgstr "Téléversement"
+
+msgid "Upload text to Pastebin and images to Imgur."
+msgstr "Téléverse les textes vers Pastebin et les images vers Imgur."
+
+msgid "Error: "
+msgstr ""
+
+msgid "Image size is too large."
+msgstr "L'image est trop grande."
+
+msgid "State"
+msgstr "État"
+
+msgid "Original image"
+msgstr "Image originale"
+
+msgid "Large thumbnail"
+msgstr "Grande miniature"
+
+msgid "Small thumbnail"
+msgstr "Petite miniature"
+
+msgid "Imgur page"
+msgstr "Page Imgur"
+
+msgid "Delete page"
+msgstr "Supprimer cette page"
+
+msgid "Error code"
+msgstr "Code d'erreur"
+
+msgid "Error message"
+msgstr "Message d'erreur"
+
+msgid "Upload clipboard content"
+msgstr "Téléverser le contenu du presse-papier"
+
+msgid "<b>Type:</b>"
+msgstr "<b>Type :</b>"
+
+msgid "_Text"
+msgstr "_Texte"
+
+msgid "_Image"
+msgstr "_Image"
+
+msgid "_Name:"
+msgstr "_Nom :"
+
+msgid "E_xpiration date:"
+msgstr "Date d'e_xpiration :"
+
+msgid "Never"
+msgstr "Jamais"
+
+msgid "1 month"
+msgstr "1 mois"
+
+msgid "1 day"
+msgstr "1 jour"
+
+msgid "1 hour"
+msgstr "1 heure"
+
+msgid "10 minutes"
+msgstr "10 minutes"
+
+msgid "_Privacy:"
+msgstr ""
+
+msgid "Public"
+msgstr ""
+
+msgid "Unlisted"
+msgstr ""
+
+msgid "Use _account"
+msgstr ""
+
+msgid "Uploading..."
+msgstr "Envoi en cours..."
+
+msgid "Text field is empty."
+msgstr "La zone de texte est vide."
+
+msgid "Upload finished"
+msgstr "Envoi terminé."
+
+msgid "Image is empty."
+msgstr "L'image est vide."
+
+msgid "Private"
+msgstr ""
+
+msgid "Username and password are required."
+msgstr ""
+
+msgid "Invalid username or password."
+msgstr ""
+
+msgid ""
+"Login successful. From now you can upload texts to your Pastebin account."
+msgstr ""
+
+msgid "_Username"
+msgstr ""
+
+msgid "_Password"
+msgstr ""
+
+msgid "_Login"
+msgstr ""
+
+msgid "Cl_ear"
+msgstr ""
+
+msgid "<b>Pastebin account</b>"
+msgstr ""
+
+msgid "Indicator"
+msgstr ""
+
+msgid "Ubuntu indicator icon."
+msgstr "Icône dans la zone des indicateurs Ubuntu."
+
+msgid "_Snippets"
+msgstr "_Fragments"
+
+msgid "Snippets"
+msgstr ""
+
+msgid "Store small parts of reusable texts."
+msgstr "Enregistrer des fragments de texte réutilisable."
+
+msgid "_Make snippet from current content"
+msgstr "_Créer un fragment à partir du contenu courant"
+
+msgid "Label"
+msgstr "Étiquette"
+
+msgid "Content"
+msgstr "Contenu"
+
+msgid "Enable snippets"
+msgstr "Activer les fragments"
+
+msgid "Paste content on snippet selection"
+msgstr "Coller le contenu lors de la sélection du fragment"
+
+msgid "_Remove"
+msgstr "_Supprimer"
+
+msgid "_Edit"
+msgstr ""
+
+msgid "_Add"
+msgstr "A_jouter"
+
+msgid "Edit snippet"
+msgstr "Éditer le fragment"
+
+msgid "Label is required."
+msgstr "Titre manquant"
+
+msgid "Content is required."
+msgstr "Contenu manquant"
+
+msgid "Add snippet"
+msgstr "Ajouter un fragment"
+
+msgid "Both label and content are required."
+msgstr "Titre et contenu manquant"
+
+msgid "You can use underscore in label for menu shortcut."
+msgstr "Utilisez le tiret bas « _ » dans le titre pour créer un raccourci."
+
+msgid "_Label"
+msgstr "É_tiquette"
+
+msgid "Enable actions"
+msgstr "Activer les actions"
+
+msgid "Edit action"
+msgstr ""
+
+msgid "Add action"
+msgstr ""
+
+msgid ""
+"You can use underscore in label for menu shortcut and %s in content as text "
+"placeholder. Each line is executed separately."
+msgstr ""
+"Utilisez le tiret du bas « _ » dans le titre pour créer un raccourci dans le "
+"menu et « %s » dans le contenu pour obtenir une marque substitutive. Chaque "
+"ligne est exécutée séparément."
+
+msgid "_Actions"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Execute actions on current clipboard content."
+msgstr "Executer les actions copiée dans le presse-papier."
+
+msgid "Sc_reen"
+msgstr "É_cran"
+
+msgid "Screenshot"
+msgstr ""
+
+msgid "Create screenshots, pick colors from screen."
+msgstr "Faire une capture d'écran, sélectionner des couleurs depuis l'écran."
+
+msgid "_Take region screenshot"
+msgstr "Capturer une _partie de l'écran."
+
+msgid "Take screenshot of _entire screen"
+msgstr "Capturer l'_ensemble de l'écran"
+
+msgid "_Pick color"
+msgstr "_Sélectionner une couleur"
+
+msgid "Picked color"
+msgstr "Couleur sélectionnée"
+
+msgid "Red:"
+msgstr "Rouge :"
+
+msgid "Green:"
+msgstr "Vert :"
+
+msgid "Blue:"
+msgstr "Bleu :"
+
+msgid "Hue:"
+msgstr "Nuance :"
+
+msgid "Saturation:"
+msgstr "Saturation :"
+
+msgid "Value:"
+msgstr "Valeur :"
+
+msgid "Hex:"
+msgstr "Hexa :"
+
+msgid "Image preview"
+msgstr ""
+
+msgid "Width:"
+msgstr "Largeur :"
+
+msgid "Height:"
+msgstr "Hauteur :"
+
+msgid "Date:"
+msgstr ""
+
+msgid "C_opy to clipboard"
+msgstr "C_opier dans le presse-papier"
+
+msgid "_Save to file"
+msgstr "Enregi_strer dans un fichier"
+
+msgid "Save image"
+msgstr "Enregistrer l'image"
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Invalid login or API key"
+msgstr ""
+
+msgid "Unspecified error."
+msgstr ""
+
+msgid "S_horten URL"
+msgstr ""
+
+msgid "Shortened URL:"
+msgstr ""
+
+msgid "URL shortener"
+msgstr ""
+
+msgid "Shorten URLs with bit.ly or TinyURL."
+msgstr ""
+
+msgid "_URL shortener:"
+msgstr ""
+
+msgid "TinyURL.com"
+msgstr ""
+
+msgid "Bit.ly"
+msgstr ""
+
+msgid ""
+"Bitly URL shortener requires your account details.\n"
+"You can find your API key <a "
+"href=\"https://bitly.com/a/your_api_key\">here</a>."
+msgstr ""
+
+msgid "_API key"
+msgstr ""
+
+msgid "<b>Bit.ly account</b>"
+msgstr ""
