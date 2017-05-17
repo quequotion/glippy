@@ -1,66 +1,60 @@
-# Japanese translation for glippy
-# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
-# This file is distributed under the same license as the glippy package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: glippy\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-07-22 17:49+0200\n"
-"PO-Revision-Date: 2011-11-01 15:12+0000\n"
-"Last-Translator: kawaji <jiro.kawada@gmail.com>\n"
-"Language-Team: Japanese <ja@li.org>\n"
+"Project-Id-Version: Glippy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Cahell Hide <cahells@gmail.com>\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-07-22 16:44+0000\n"
-"X-Generator: Launchpad (build 15654)\n"
+"X-Generator: \n"
 
 msgid "_Clear clipboard"
-msgstr "クリップボードの消去(_C)"
+msgstr "クリップボードを消去する (_C)"
 
 msgid "_Edit current content"
-msgstr "現在の内容の編集(_E)"
+msgstr "現在の内容を編集する (_E)"
 
 msgid "_Preferences"
-msgstr "設定(_P)"
+msgstr "設定 (_P)"
 
 msgid "_About"
-msgstr "情報(_A)"
+msgstr "情報 (_A)"
 
 msgid "_Quit"
-msgstr "終了(_Q)"
+msgstr "終了 (_Q)"
 
 msgid "Glippy Preferences"
-msgstr "Glippy 設定"
+msgstr "Glippy の設定"
 
 msgid "Start Glippy at login"
-msgstr "ログイン時にGlippyを起動する"
+msgstr "ログイン時に Glippy を起動する"
 
 msgid "Enable keyboard clipboard (Ctrl+C/Ctrl+V)"
-msgstr "キーボード・クリップボードを有効にする(Ctrl+C/Ctrl+V)"
+msgstr "キーボード・クリップボードを有効にする（Ctrl+C/Ctrl+V）"
 
 msgid "Store images"
 msgstr "画像を保存する"
 
 msgid "Store supported files as images"
-msgstr "対応ファイルを画像として保管する"
+msgstr "対応ファイルを画像として保存する"
 
 msgid "Enable mouse clipboard (selection/middle click)"
-msgstr "マウス・クリップボードを有効にする(選択/中クリック)"
+msgstr "マウス・クリップボードを有効にする（範囲選択/中クリック）"
 
 msgid "Synchronize clipboards"
-msgstr "両方のクリップボードを同期する"
+msgstr "クリップボードを同期する"
 
 msgid "Save history on exit"
 msgstr "終了時に履歴を保存する"
 
 msgid "Paste item content on selection"
-msgstr "アイテム選択時にその内容を貼り付ける"
+msgstr "アイテムを選択した時に内容を貼り付ける"
 
 msgid "_Basic"
-msgstr "基本(_B)"
+msgstr "基本 (_B)"
 
 msgid "Clipboard size:"
 msgstr "クリップボードのサイズ："
@@ -72,61 +66,61 @@ msgid "Reverse order of items"
 msgstr "アイテムの表示順序を逆にする"
 
 msgid "Use paste icon instead default (needs restart)"
-msgstr "標準アイコンに代えてペーストアイコンを使用する(要再起動)"
+msgstr "ペースト・アイコンに代替する（要再起動）"
 
 msgid "Show 'About' menu entry"
 msgstr "メニューに「情報」を表示する"
 
 msgid "Show 'Edit clipboard' menu entry"
-msgstr "メニューに「現在の内容の編集」を表示する"
+msgstr "メニューに「現在の内容を編集する」を表示する"
 
 msgid "Show 'Quit' menu entry"
 msgstr "メニューに「終了」を表示する"
 
 msgid "_Interface"
-msgstr "インターフェイス(_I)"
+msgstr "インターフェイス (_I)"
 
 msgid "Menu hotkey"
 msgstr "メニューのホットキー"
 
 msgid "Grab"
-msgstr "取り込み"
+msgstr "取り込む"
 
 msgid "'Copy' hotkey for mouse clipboard"
-msgstr "マウス・クリップボードの「コピー」のホットキー"
+msgstr "マウス・クリップボードにコピーするホットキー"
 
 msgid "H_otkeys"
-msgstr "ホットキー(_O)"
+msgstr "ホットキー (_O)"
 
 msgid "Here you can configure which plugins Glippy should use."
-msgstr "ここでは、Glippyにどのプラグインを使用させるか設定できます。"
+msgstr "ここでは Glippy で使用するプラグインを選択することができます。"
 
 msgid "Keep in mind, that some of them may require restart."
-msgstr "再起動を要するプラグインもあることに留意してください。"
+msgstr "場合によっては、再起動が必要となることもあります。"
 
 msgid "_Plugins"
-msgstr "プラグイン(_P)"
+msgstr "プラグイン (_P)"
 
 msgid "_Close"
-msgstr "閉じる(_C)"
+msgstr "閉じる (_C)"
 
 msgid "Edit clipboard content"
-msgstr "クリップボード内容の編集"
+msgstr "クリップボードの編集"
 
 msgid "C_ontent"
-msgstr "内容(_O)"
+msgstr "内容 (_O)"
 
 msgid "_Apply"
-msgstr "適用(_A)"
+msgstr "適用 (_A)"
 
 msgid "_Cancel"
-msgstr "キャンセル(_C)"
+msgstr "キャンセル (_C)"
 
 msgid "Not so simple clipboard manager for GNOME"
-msgstr ""
+msgstr "ただシンプルなだけではない GNOME のクリップボード・マネージャ"
 
 msgid "Enabled"
-msgstr "有効化"
+msgstr "有効"
 
 msgid "Name"
 msgstr "名前"
@@ -141,37 +135,37 @@ msgid "Notification area icon."
 msgstr "通知エリアのアイコンです。"
 
 msgid "_Upload"
-msgstr "アップロード(_U)"
+msgstr "アップロード (_U)"
 
 msgid "Upload"
 msgstr "アップロード"
 
 msgid "Upload text to Pastebin and images to Imgur."
-msgstr "テキストはPastebinに、画像はImgurにアップロードします。"
+msgstr "テキストを Pastebin に、画像は Imgur にアップロードします。"
 
 msgid "Error: "
-msgstr ""
+msgstr "エラー："
 
 msgid "Image size is too large."
-msgstr "画像サイズが大きすぎます。"
+msgstr "画像のサイズが大きすぎます。"
 
 msgid "State"
 msgstr "状態"
 
 msgid "Original image"
-msgstr "オリジナル画像"
+msgstr "オリジナルの画像"
 
 msgid "Large thumbnail"
-msgstr "大きなサムネイル"
+msgstr "大きいサムネイル"
 
 msgid "Small thumbnail"
-msgstr "小さなサムネイル"
+msgstr "小さいサムネイル"
 
 msgid "Imgur page"
-msgstr "Imgurページ"
+msgstr "Imgur のページ"
 
 msgid "Delete page"
-msgstr "ページを削除"
+msgstr "ページを削除する"
 
 msgid "Error code"
 msgstr "エラーコード"
@@ -180,22 +174,22 @@ msgid "Error message"
 msgstr "エラーメッセージ"
 
 msgid "Upload clipboard content"
-msgstr "クリップボード内容のアップロード"
+msgstr "クリップボードのアップロード"
 
 msgid "<b>Type:</b>"
 msgstr "<b>種類：</b>"
 
 msgid "_Text"
-msgstr "テキスト(_T)"
+msgstr "テキスト (_T)"
 
 msgid "_Image"
-msgstr "画像(_I)"
+msgstr "画像 (_I)"
 
 msgid "_Name:"
-msgstr "名前(_N):"
+msgstr "名前 (_N)："
 
 msgid "E_xpiration date:"
-msgstr "有効期限(_X):"
+msgstr "有効期限 (_X)："
 
 msgid "Never"
 msgstr "無期限"
@@ -213,74 +207,75 @@ msgid "10 minutes"
 msgstr "10分"
 
 msgid "_Privacy:"
-msgstr ""
+msgstr "個人情報 (_P)："
 
 msgid "Public"
-msgstr ""
+msgstr "公開"
 
 msgid "Unlisted"
-msgstr ""
+msgstr "非公開"
 
 msgid "Use _account"
-msgstr ""
+msgstr "アカウントを使用する (_A)"
 
 msgid "Uploading..."
 msgstr "アップロード中..."
 
 msgid "Text field is empty."
-msgstr "テキスト欄が空です。"
+msgstr "テキストが空欄です。"
 
 msgid "Upload finished"
-msgstr "アップロードが完了"
+msgstr "アップロードが完了しました。"
 
 msgid "Image is empty."
-msgstr "画像は空です。"
+msgstr "画像がありません。"
 
 msgid "Private"
-msgstr ""
+msgstr "プライベート"
 
 msgid "Username and password are required."
-msgstr ""
+msgstr "ユーザー名とパスワードが必須です。"
 
 msgid "Invalid username or password."
-msgstr ""
+msgstr "ユーザー名かパスワードが無効です。"
 
 msgid ""
 "Login successful. From now you can upload texts to your Pastebin account."
 msgstr ""
+"ログインに成功しました。以降は Pastebin のアカウントからテキストをアップロードすることができます。"
 
 msgid "_Username"
-msgstr ""
+msgstr "ユーザー名 (_U)"
 
 msgid "_Password"
-msgstr ""
+msgstr "パスワード (_P)"
 
 msgid "_Login"
-msgstr ""
+msgstr "ログイン (_L)"
 
 msgid "Cl_ear"
-msgstr ""
+msgstr "クリア (_E)"
 
 msgid "<b>Pastebin account</b>"
-msgstr ""
+msgstr "Pastebin のアカウント"
 
 msgid "Indicator"
 msgstr "インジケーター"
 
 msgid "Ubuntu indicator icon."
-msgstr "Ubuntuインジケーターのアイコンです。"
+msgstr "Ubuntu のインジケーター・アイコンです。"
 
 msgid "_Snippets"
-msgstr "スニペット(_S)"
+msgstr "スニペット (_S)"
 
 msgid "Snippets"
 msgstr "スニペット"
 
 msgid "Store small parts of reusable texts."
-msgstr ""
+msgstr "何回でも利用できる短文を保存します。"
 
 msgid "_Make snippet from current content"
-msgstr "現在の内容のスニペット作成(_M)"
+msgstr "現在の内容でスニペットを作成する (_M)"
 
 msgid "Label"
 msgstr "ラベル"
@@ -292,37 +287,37 @@ msgid "Enable snippets"
 msgstr "スニペットを有効にする"
 
 msgid "Paste content on snippet selection"
-msgstr "スニペット選択時にその内容を貼り付ける"
+msgstr "スニペットを選択した時に内容を貼り付ける"
 
 msgid "_Remove"
-msgstr "削除(_R)"
+msgstr "削除 (_R)"
 
 msgid "_Edit"
-msgstr "編集(_E)"
+msgstr "編集 (_E)"
 
 msgid "_Add"
-msgstr "追加(_A)"
+msgstr "追加 (_A)"
 
 msgid "Edit snippet"
 msgstr "スニペットの編集"
 
 msgid "Label is required."
-msgstr "ラベルが必須です。"
+msgstr "ラベルは必須です。"
 
 msgid "Content is required."
-msgstr "内容が必須です。"
+msgstr "内容は必須です。"
 
 msgid "Add snippet"
 msgstr "スニペットの追加"
 
 msgid "Both label and content are required."
-msgstr "ラベルと内容の両方が必須です。"
+msgstr "ラベルと内容は必須です。"
 
 msgid "You can use underscore in label for menu shortcut."
-msgstr "メニューでのショートカットのため、ラベルでアンダースコアが使用できます。"
+msgstr "ラベルにアンダースコアを使えば、メニュー・ショートカットになります。"
 
 msgid "_Label"
-msgstr "ラベル(_L)"
+msgstr "ラベル (_L)"
 
 msgid "Enable actions"
 msgstr "アクションを有効にする"
@@ -337,77 +332,77 @@ msgid ""
 "You can use underscore in label for menu shortcut and %s in content as text "
 "placeholder. Each line is executed separately."
 msgstr ""
-"メニューでのショートカットのためにラベルでアンダースコアを使用したり、内容欄で %s "
-"をテキストの置換子として使用できます。各行はそれぞれ別個に実行されます。"
+"ラベルにアンダースコアを使えば、メニュー・ショートカットになり、内容の %s はテキストの"
+"プレースホルダーとなります。各行ごとに実行されます。"
 
 msgid "_Actions"
-msgstr "アクション(_A)"
+msgstr "アクション (_A)"
 
 msgid "Actions"
 msgstr "アクション"
 
 msgid "Execute actions on current clipboard content."
-msgstr ""
+msgstr "現在のクリップボードの内容にアクションを実行します。"
 
 msgid "Sc_reen"
-msgstr "スクリーン(_R)"
+msgstr "スクリーン (_R)"
 
 msgid "Screenshot"
 msgstr "スクリーンショット"
 
 msgid "Create screenshots, pick colors from screen."
-msgstr ""
+msgstr "スクリーンショットとカラーピッカーです。"
 
 msgid "_Take region screenshot"
-msgstr ""
+msgstr "範囲を撮影する (_T)"
 
 msgid "Take screenshot of _entire screen"
-msgstr ""
+msgstr "全体を撮影する (_E)"
 
 msgid "_Pick color"
-msgstr ""
+msgstr "色を抽出する (_P)"
 
 msgid "Picked color"
-msgstr ""
+msgstr "抽出色"
 
 msgid "Red:"
-msgstr "赤:"
+msgstr "赤："
 
 msgid "Green:"
-msgstr "緑:"
+msgstr "緑："
 
 msgid "Blue:"
-msgstr "青:"
+msgstr "青："
 
 msgid "Hue:"
-msgstr "色相:"
+msgstr "色相："
 
 msgid "Saturation:"
-msgstr "彩度:"
+msgstr "彩度："
 
 msgid "Value:"
-msgstr "明度:"
+msgstr "明度："
 
 msgid "Hex:"
-msgstr "16進数:"
+msgstr "16進数："
 
 msgid "Image preview"
 msgstr "画像のプレビュー"
 
 msgid "Width:"
-msgstr "幅:"
+msgstr "幅："
 
 msgid "Height:"
-msgstr "高さ:"
+msgstr "高さ："
 
 msgid "Date:"
-msgstr "日付:"
+msgstr "日付："
 
 msgid "C_opy to clipboard"
-msgstr "クリップボードにコピー(_O)"
+msgstr "クリップボードにコピー (_O)"
 
 msgid "_Save to file"
-msgstr "ファイルに保存(_S)"
+msgstr "ファイルに保存 (_S)"
 
 msgid "Save image"
 msgstr "画像の保存"
@@ -419,25 +414,25 @@ msgid "Save"
 msgstr "保存"
 
 msgid "Invalid login or API key"
-msgstr ""
+msgstr "ユーザー名か API キーが無効です。"
 
 msgid "Unspecified error."
-msgstr ""
+msgstr "未知のエラーです。"
 
 msgid "S_horten URL"
-msgstr ""
+msgstr "短縮 URL (_H)"
 
 msgid "Shortened URL:"
-msgstr ""
+msgstr "短縮された URL："
 
 msgid "URL shortener"
-msgstr ""
+msgstr "短縮 URL"
 
 msgid "Shorten URLs with bit.ly or TinyURL."
-msgstr ""
+msgstr "bit.ly か TinyURL で URL を短縮します。"
 
 msgid "_URL shortener:"
-msgstr ""
+msgstr "短縮 URL サービス (_U)："
 
 msgid "TinyURL.com"
 msgstr ""
@@ -450,9 +445,12 @@ msgid ""
 "You can find your API key <a "
 "href=\"https://bitly.com/a/your_api_key\">here</a>."
 msgstr ""
+"Bitly の短縮 URL サービスにはアカウントが必要です。\n"
+"API キーについては、<a "
+"href=\"https://bitly.com/a/your_api_key\">こちら</a>から確認して下さい。"
 
 msgid "_API key"
-msgstr ""
+msgstr "API キー (_A)"
 
 msgid "<b>Bit.ly account</b>"
-msgstr ""
+msgstr "<b>Bit.ly のアカウント</b>"
